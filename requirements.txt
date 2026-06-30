@@ -1,0 +1,12 @@
+# Core dependencies to reproduce the Instagram analysis (did_analysis, specification_curve, wild_bootstrap)
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+statsmodels>=0.14
+patsy>=0.5
+matplotlib>=3.6
+pyarrow>=10.0
+
+# Additional packages needed ONLY for the provenance notebooks
+# (prepare_covariates.ipynb, select_target_areas.ipynb), which also require external datasets:
+#   geopandas  rasterstats  shapely  pycountry  requests  tqdm  googletrans

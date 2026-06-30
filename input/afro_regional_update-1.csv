@@ -1,0 +1,466 @@
+region,christian,muslim,country,geoname_id,precision_code,place_name,latitude,longitude,location_type_code,geoname_adm_code,geoname_adm_name,location_class,geographic_exactness
+Alibori,.0383237,.9616763,1,2395591,1,Angara-DÃ©bou,11.32454,3.0588601,PPL,6295630|6255146|BJ|08|2395591,Earth|Africa|Benin|Atakora|Angara-DÃ©bou,2,1
+Atacora,.51037425,.24425989,1,2392133,1,Perma,10.12554,1.4368,PPL,6295630|6255146|BJ|08|2392133,Earth|Africa|Benin|Atakora|Perma,2,1
+Atlantique,.74103653,.039262313,1,7668936,3,Commune of Ouidah,6.3709998,2.1129999,ADM2,6295630|6255146|BJ|09|7668936,Earth|Africa|Benin|Atlantique|Commune of Ouidah,1,1
+Borgou,.27689022,.70012283,1,7669268,3,Commune of Parakou,9.3499098,2.6226201,ADM2,6295630|6255146|BJ|10|7669268,Earth|Africa|Benin|Borgou|Commune of Parakou,1,1
+Collines,.84879327,.085941181,1,2392110,1,Pira,8.4953699,1.72541,PPL,6295630|6255146|BJ|11|2392110,Earth|Africa|Benin|Collines|Pira,2,1
+Couffo,.3923763,0,1,10344474,3,KlouÃ©kanmÃ¨,6.9802799,1.8422199,ADM2,6295630|6255146|BJ|12|10344474,Earth|Africa|Benin|Kouffo|KlouÃ©kanmÃ¨,1,1
+Donga,.20766126,.77807176,1,2394560,1,Djougou,9.7085304,1.66598,PPLA,6295630|6255146|BJ|13|2394560,Earth|Africa|Benin|Donga|Djougou,2,1
+Littoral,.85933334,.081088707,1,11205195,1,Sodjatinme-Centre,6.36936,2.45014,PPLX,6295630|6255146|BJ|09|11205195,Earth|Africa|Benin|Atlantique|Sodjatinme-Centre,2,1
+Mono,.51186061,.049673855,1,2395480,1,Avlo,6.29386,1.89178,PPL,6295630|6255146|BJ|00,Earth|Africa|Benin|Avlo,2,1
+Oueme,.71394151,.21156944,1,11256951,3,Atchonsa,6.8862,2.4806001,ADM3,6295630|6255146|BJ|16|11256951,Earth|Africa|Benin|OuÃ©mÃ©|Atchonsa,1,1
+Plateau,.66889495,.18261307,1,2395905,1,AdakplamÃ©,7.4539399,2.5472801,PPL,6295630|6255146|BJ|17|2395905,Earth|Africa|Benin|Plateau|AdakplamÃ©,2,1
+Zou,.63541496,.093796685,1,7668931,3,Commune of Bohicon,7.1630001,2.0940001,ADM2,6295630|6255146|BJ|18|7668931,Earth|Africa|Benin|Zou|Commune of Bohicon,1,1
+Barolong,.62578553,0,2,7739165,1,Good Hope,-25.467119,25.439211,PPL,6295630|6255146|BW|10|7739165,Earth|Africa|Botswana|Ngwaketsi|Good Hope,2,1
+Central  Bobonong,.50461316,0,2,933860,6,Botswana,-22,24,PCLI,6295630|6255146|BW,Earth|Africa|Botswana,1,1
+Central Boteti,.45781764,0,2,933535,1,Letlhakane,-21.41494,25.59263,PPL,6295630|6255146|BW|01|933535,Earth|Africa|Botswana|Central|Letlhakane,2,1
+Central Mahalapye,.55133975,0,2,933471,1,Mahalapye,-23.104071,26.814211,PPL,6295630|6255146|BW|01|933471,Earth|Africa|Botswana|Central|Mahalapye,2,1
+Central Serowe/Palapye,.53261799,.039054632,2,933088,1,Serowe,-22.387541,26.71077,PPLA,6295630|6255146|BW|01|933088,Earth|Africa|Botswana|Central|Serowe,2,1
+Central Tutume,.50824219,0,2,933000,1,Tonota,-21.44236,27.461531,PPL,6295630|6255146|BW|01|933000,Earth|Africa|Botswana|Central|Tonota,2,1
+Chobe,.70150542,0,2,933860,6,Botswana,-22,24,PCLI,6295630|6255146|BW,Earth|Africa|Botswana,1,1
+Francistown,.77750778,0,2,933778,1,Francistown,-21.16995,27.50787,PPLA,6295630|6255146|BW|08|933778,Earth|Africa|Botswana|North-East|Francistown,2,1
+Gaborone,.65386236,.018653177,2,1106229,1,Broadhurst,-24.640829,25.92111,PPLX,6295630|6255146|BW|09|933773|1106229,Earth|Africa|Botswana|South-East|Gaborone|Broadhurst,2,1
+Ghanzi,.54846758,.094525963,2,11204768,1,Charles Hill,-22.27639,20.092779,PPL,6295630|6255146|BW|03|11204768,Earth|Africa|Botswana|Ghanzi|Charles Hill,2,1
+Jwaneng,.75,0,2,8308627,1,Jwaneng,-24.60166,24.7281,PPL,6295630|6255146|BW|10|8308627,Earth|Africa|Botswana|Ngwaketsi|Jwaneng,2,1
+Kgalagadi North,.67684478,.036577623,2,933726,1,Hukuntsi,-23.9988,21.779619,PPL,6295630|6255146|BW|04|933726,Earth|Africa|Botswana|Kgalagadi|Hukuntsi,2,1
+Kgalagadi South,.625,0,2,11205736,3,Maralaleng,-25.7943,22.6854,ADM3,6295630|6255146|BW|04|11205736,Earth|Africa|Botswana|Kgalagadi|Maralaleng,1,1
+Kgatleng,.6993826,0,2,933340,1,Mochudi,-24.41667,26.15,PPLA,6295630|6255146|BW|05|933340,Earth|Africa|Botswana|Kgatleng|Mochudi,2,1
+Kweneng East,.57006413,.0092021739,2,933331,1,Mogoditshane,-24.62694,25.865561,PPL,6295630|6255146|BW|06|933331,Earth|Africa|Botswana|Kweneng|Mogoditshane,2,1
+Kweneng West,.60661852,0,2,7909164,2,Malwelwe,-24.050449,25.272011,PPLL,6295630|6255146|BW|06|7909164,Earth|Africa|Botswana|Kweneng|Malwelwe,2,1
+Lobatse,.33933297,0,2,933521,1,Lobatse,-25.22435,25.67728,PPL,6295630|6255146|BW|09|933521,Earth|Africa|Botswana|South-East|Lobatse,2,1
+Ngamiland East,.47213593,0,2,933366,1,Maun,-19.98333,23.41667,PPLA,6295630|6255146|BW|11|933366,Earth|Africa|Botswana|North-West|Maun,2,1
+Ngamiland West,.37557328,0,2,11204683,1,Etsha,-19.130989,22.29254,PPL,6295630|6255146|BW|11|11204683,Earth|Africa|Botswana|North-West|Etsha,2,1
+Ngwaketse,.57404327,.036393564,2,11204609,1,Molapowabojang,-25.207029,25.53017,PPL,6295630|6255146|BW|10|11204609,Earth|Africa|Botswana|Ngwaketsi|Molapowabojang,2,1
+Ngwaketse West,.67093694,0,2,7889493,1,Mabutsane,-24.386459,23.57486,PPL,6295630|6255146|BW|10|7889493,Earth|Africa|Botswana|Ngwaketsi|Mabutsane,2,1
+North East,.49020103,0,2,11205567,1,Themashanga,-20.800831,27.55139,PPL,6295630|6255146|BW|08|11205567,Earth|Africa|Botswana|North-East|Themashanga,2,1
+Seleibe Phikwe,.7240364,0,2,933099,1,Selebi-Phikwe,-21.978951,27.84296,PPL,6295630|6255146|BW|01|933099,Earth|Africa|Botswana|Central|Selebi-Phikwe,2,1
+South East,.60948652,.017791636,2,933004,1,Tlokweng,-24.66861,25.971109,PPL,6295630|6255146|BW|09|933004,Earth|Africa|Botswana|South-East|Tlokweng,2,1
+Boucle du Mouhoun,.32264516,.56941241,3,2359124,1,Konkui Koura,12.83333,-4.1166701,PPL,6295630|6255146|BF|01|2359124,Earth|Africa|Burkina Faso|Boucle du Mouhoun|Konkui Koura,2,1
+Cascades,.11441983,.8403495,3,2359776,1,Kangoura,10.55,-5.28333,PPL,6295630|6255146|BF|02|2359776,Earth|Africa|Burkina Faso|Cascades Region|Kangoura,2,1
+Centre,.45148635,.51708007,3,2359923,3,Kadiogo Province,12.33333,-1.5,ADM2,6295630|6255146|BF|03|2359923,Earth|Africa|Burkina Faso|Centre|Kadiogo Province,1,1
+Centre-Est,.27212363,.69052327,3,2356300,1,Pouytenga,12.25162,-.42565,PPL,6295630|6255146|BF|04|2358700|2356300,Earth|Africa|Burkina Faso|Centre-Est|Kouritenga Province|Pouytenga,2,1
+Centre-Nord,.3231225,.53601342,3,2356467,1,Pissila,13.16417,-.82249999,PPL,6295630|6255146|BF|05|2355914|2356467,Earth|Africa|Burkina Faso|Centre-Nord|Province du Sanmatenga|Pissila,2,1
+Centre-Ouest,.62701547,.26992416,3,2361898,1,Boura,11.04282,-2.50196,PPL,6295630|6255146|BF|06|2361898,Earth|Africa|Burkina Faso|Centre-Ouest|Boura,2,1
+Centre-Sud,.39716825,.42839235,3,2362475,1,BindÃ©,11.75417,-1.09444,PPL,6295630|6255146|BF|07|2353169|2362475,Earth|Africa|Burkina Faso|Centre-Sud|Zoundweogo Province|BindÃ©,2,1
+Est,.49333355,.43942532,3,2360886,1,Fada N'gourma,12.06157,.35843,PPLA,6295630|6255146|BF|08|2360223|2360886,Earth|Africa|Burkina Faso|Est|Province du Gourma|Fada N'gourma,2,1
+Hauts-Bassins,.10776841,.86454588,3,2358678,1,Kourouma,11.61715,-4.8009701,PPL,6295630|6255146|BF|09|2359569|2358678,Earth|Africa|Burkina Faso|Hauts-Bassins|Province du KÃ©nÃ©dougou|Kourouma,2,1
+Nord,.21211487,.7690714,3,2357043,1,Ouahigouya,13.58278,-2.4215801,PPLA,6295630|6255146|BF|10|2353568|2357043,Earth|Africa|Burkina Faso|Nord|Province du Yatenga|Ouahigouya,2,1
+Plateau Central,.38676336,.49079898,3,11238552,3,Kogho,12.64818,-.67351002,ADM3,6295630|6255146|BF|11|2360627|11238552,Earth|Africa|Burkina Faso|Plateau-Central|Province du Ganzourgou|Kogho,1,1
+Sahel,.045025464,.95497453,3,2361209,1,Dyoungodyo,13.61165,.41356,PPL,6295630|6255146|BF|12|2597268|2361209,Earth|Africa|Burkina Faso|Sahel|Province du Yagha|Dyoungodyo,2,1
+Sud-Ouest,.39072523,.28090453,3,2359071,1,Koriba KinkÃ©ni,9.9166698,-2.8333299,PPL,6295630|6255146|BF|13|2359071,Earth|Africa|Burkina Faso|Sud-Ouest|Koriba KinkÃ©ni,2,1
+S.Antão,.89561689,0,4,11205105,1,Caibros de Ribeira de Jorge,17.133221,-25.14588,PPL,6295630|6255146|CV|11205105,Earth|Africa|Cape Verde|Caibros de Ribeira de Jorge,2,1
+S.Vicente,.48066881,0,4,3374198,4,SÃ£o Vicente,16.83333,-25,ADM1,6295630|6255146|CV|11,Earth|Africa|Cape Verde|SÃ£o Vicente,1,1
+Santiago-Interior,.95536411,0,4,3374226,4,Santa Catarina,15.1,-23.700001,ADM1,6295630|6255146|CV|15,Earth|Africa|Cape Verde|Santa Catarina,1,1
+Santiago- Praia,.87630087,.0018491184,4,3374332,4,Praia,14.95,-23.51667,ADM1,6295630|6255146|CV|14,Earth|Africa|Cape Verde|Praia,1,1
+Fogo,.71376359,0,4,3411927,4,SÃ£o Filipe,14.93333,-24.433331,ADM1,6295630|6255146|CV|18,Earth|Africa|Cape Verde|SÃ£o Filipe,1,1
+Western,.82979536,.067919038,5,2303611,1,Axim,4.8699198,-2.2404599,PPL,6295630|6255146|GH|09|2303611,Earth|Africa|Ghana|Western Region|Axim,2,1
+Central,.83968669,.046930484,5,11205185,1,Esakyir,5.3181,-.89804,PPL,6295630|6255146|GH|04|11205185,Earth|Africa|Ghana|Central Region|Esakyir,2,1
+Greater Accra,.81322026,.1288023,5,7648980,3,Ga East,5.7333298,-.2,ADM2,6295630|6255146|GH|01|7648980,Earth|Africa|Ghana|Greater Accra Region|Ga East,1,1
+Volta,.9139356,.031989716,5,2293998,1,Worawora,7.5132499,.37382999,PPL,6295630|6255146|GH|00,Earth|Africa|Ghana|Worawora,2,1
+Eastern,.83570087,.054212887,5,7649011,3,Lower Manya Krobo,6.36339,-.10341,ADM2,6295630|6255146|GH|05|7649011,Earth|Africa|Ghana|Eastern Region|Lower Manya Krobo,1,1
+Ashanti,.80464631,.095182553,5,2296824,1,Nyanchreniasi,6.71525,-1.67932,PPL,6295630|6255146|GH|00,Earth|Africa|Ghana|Nyanchreniasi,2,1
+Brong Ahafo,.71960574,.14433131,5,2300749,1,Gawso,6.80267,-2.5162101,PPL,6295630|6255146|GH|00,Earth|Africa|Ghana|Gawso,2,1
+Northern,.2275065,.68772697,5,7649074,3,Zabzugu/Tatale,9.28333,.36667001,ADM2,6295630|6255146|GH|06|7649074,Earth|Africa|Ghana|Northern Region|Zabzugu/Tatale,1,1
+Upper East,.47412387,.3161414,5,10303430,3,Bawku Municipal District,11.05,-.2333,ADM2,6295630|6255146|GH|10|10303430,Earth|Africa|Ghana|Upper East Region|Bawku Municipal District,1,1
+Upper West,.8035844,.16254094,5,7647177,3,Nadowli,10.34104,-2.3813601,ADM2,6295630|6255146|GH|11|7647177,Earth|Africa|Ghana|Upper West Region|Nadowli,1,1
+Nairobi,.71948576,.11395393,6,184735,1,Nairobi West,-1.3,36.816669,PPLX,6295630|6255146|KE|05|184745|184735,Earth|Africa|Kenya|Nairobi|Nairobi|Nairobi West,2,1
+Central,.91039348,.002152629,6,8693007,3,Kiambu County,-1.16667,36.833328,ADM2,6295630|6255146|KE|22|8693007,Earth|Africa|Kenya|Kiambu|Kiambu County,1,1
+Eastern,.83252174,.054353058,6,179380,4,Tharaka - Nithi,-.10094,38.028831,ADM1,6295630|6255146|KE|49,Earth|Africa|Kenya|Tharaka - Nithi,1,1
+Rift Valley,.80153316,.017800074,6,179068,4,Trans Nzoia,1.045,34.979,ADM1,6295630|6255146|KE|50,Earth|Africa|Kenya|Trans Nzoia,1,1
+Nyanza,.60927886,.0023006685,6,191242,4,Kisumu,-.068999998,34.639999,ADM1,6295630|6255146|KE|26,Earth|Africa|Kenya|Kisumu,1,1
+Western,.80713987,.019224472,6,200066,4,Bungoma,.66000003,34.639,ADM1,6295630|6255146|KE|12,Earth|Africa|Kenya|Bungoma,1,1
+North Eastern,.0036672936,.99074399,6,8299464,3,Ijara District,-1.452,40.807999,ADM2,6295630|6255146|KE|16|8299464,Earth|Africa|Kenya|Garissa|Ijara District,1,1
+Coast,.58095902,.34597328,6,186301,1,Mombasa,-4.0546598,39.663589,PPLA,6295630|6255146|KE|37|186301,Earth|Africa|Kenya|Mombasa|Mombasa,2,1
+Maseru,.96679664,0,7,932692,6,Lesotho,-29.5,28.25,PCLI,6295630|6255146|LS,Earth|Africa|Lesotho,1,1
+Mafeteng,.89842695,0,7,7645958,3,Ramoetsana Community,-29.8992,27.662901,ADM3,6295630|6255146|LS|13|7645958,Earth|Africa|Lesotho|Mafeteng District|Ramoetsana Community,1,1
+Mohale’s Hoek,.94580787,0,7,7603044,3,Tsatsane Community,-30.4461,27.986099,ADM3,6295630|6255146|LS|18|7603044,Earth|Africa|Lesotho|Quthing|Tsatsane Community,1,1
+Quthing,.94581181,0,7,932506,4,Maseru,-29.58333,27.83333,ADM1,6295630|6255146|LS|14,Earth|Africa|Lesotho|Maseru,1,1
+Qacha’s Nek,.92587429,0,7,932692,6,Lesotho,-29.5,28.25,PCLI,6295630|6255146|LS,Earth|Africa|Lesotho,1,1
+Mokhotlong,.88482141,0,7,11258465,3,Motete,-28.864811,28.583969,ADM2,6295630|6255146|LS|11|11258465,Earth|Africa|Lesotho|Butha-Buthe|Motete,1,1
+Butha-Buthe,.84427828,0,7,932074,1,Serutle,-28.729059,28.299419,PPL,6295630|6255146|LS|00,Earth|Africa|Lesotho|Serutle,2,1
+Leribe,.89642042,.0052514775,7,932692,6,Lesotho,-29.5,28.25,PCLI,6295630|6255146|LS,Earth|Africa|Lesotho,1,1
+Berea,.92311561,.0061404044,7,7432583,3,Phuthiatsana Community,-29.1255,27.880051,ADM3,6295630|6255146|LS|10|7432583,Earth|Africa|Lesotho|Berea|Phuthiatsana Community,1,1
+Thaba Tseka,.9139083,0,7,7603114,3,Bobete Community,-29.443451,28.717501,ADM3,6295630|6255146|LS|19|7603114,Earth|Africa|Lesotho|Thaba-Tseka|Bobete Community,1,1
+Bomi,.47303444,.50163281,8,8714531,3,Klay District,6.69417,-10.87444,ADM2,6295630|6255146|LR|15|8714531,Earth|Africa|Liberia|Bomi County|Klay District,1,1
+Bong,.8927123,.023207191,8,2274491,3,Panta,7.0773101,-9.2331896,ADM2,6295630|6255146|LR|01|2274491,Earth|Africa|Liberia|Bong County|Panta,1,1
+Gbarpolu,.82833087,.17166916,8,2276886,1,Henry Town,7.3319402,-10.34306,PPL,6295630|6255146|LR|21|2276886,Earth|Africa|Liberia|Gbarpolu County|Henry Town,2,1
+Grand Bassa,.97756398,.0058479612,8,9817889,1,Dirt Hole Camp,6.14643,-9.7292299,PPL,6295630|6255146|LR|11|9817889,Earth|Africa|Liberia|Grand Bassa County|Dirt Hole Camp,2,1
+Grand Cape Mount,.080155268,.91984475,8,2274351,3,Porkpa District,7.2800798,-11.06562,ADM2,6295630|6255146|LR|12|2274351,Earth|Africa|Liberia|Grand Cape Mount County|Porkpa District,1,1
+Grand Gedeh,.96646601,.03353399,8,2272491,1,Zwedru,6.06846,-8.1355896,PPLA,6295630|6255146|LR|19|2272491,Earth|Africa|Liberia|Grand Gedeh County|Zwedru,2,1
+Grand Kru,1,0,8,9874222,1,Bila Togbaklee,4.6280398,-8.3177404,PPL,6295630|6255146|LR|16|9874222,Earth|Africa|Liberia|Grand Kru County|Bila Togbaklee,2,1
+Lofa,.78754491,.093772866,8,9645106,3,Foya District,8.3703098,-10.21993,ADM2,6295630|6255146|LR|20|9645106,Earth|Africa|Liberia|Lofa County|Foya District,1,1
+Margibi,.96288657,.033857793,8,2275493,1,Kwalakoma,6.7283301,-10.25944,PPL,6295630|6255146|LR|17|2275493,Earth|Africa|Liberia|Margibi County|Kwalakoma,2,1
+Maryland,.9207859,.01627538,8,2276492,1,Harper,4.3782001,-7.7108102,PPLA,6295630|6255146|LR|13|2276492,Earth|Africa|Liberia|Maryland County|Harper,2,1
+Montserrado,.85689312,.11556317,8,7669298,3,Greater Monrovia,6.3141799,-10.73356,ADM2,6295630|6255146|LR|14|7669298,Earth|Africa|Liberia|Montserrado County|Greater Monrovia,1,1
+Nimba,.91290265,.010852718,8,9645142,3,Yarpea Mahn District,7.2232699,-8.6856003,ADM2,6295630|6255146|LR|09|9645142,Earth|Africa|Liberia|Nimba County|Yarpea Mahn District,1,1
+River Cess,.93901825,0,8,9645147,3,Central River Cess District,5.81006,-9.3179398,ADM2,6295630|6255146|LR|18|9645147,Earth|Africa|Liberia|River Cess County|Central River Cess District,1,1
+River Gee,.94633949,0,8,2278019,3,Chedepo,5.4783201,-8.0136499,ADM2,6295630|6255146|LR|22|2278019,Earth|Africa|Liberia|River Gee County|Chedepo,1,1
+Sinoe,1,0,8,2273898,4,Sinoe County,5.3333302,-8.7666702,ADM1,6295630|6255146|LR|10,Earth|Africa|Liberia|Sinoe County,1,1
+Alaotra Mangoro,.96079463,0,9,1071494,1,Anosibe,-18.91667,48.049999,PPL,6295630|6255146|MG|04,Earth|Africa|Madagascar|Anosibe,2,1
+Amoron'i Mania,.97005624,0,9,1084267,1,Ambalamanakana,-20.73333,47.183331,PPL,6295630|6255146|MG|02,Earth|Africa|Madagascar|Ambalamanakana,2,1
+Analamanga,.91715801,.016685359,9,11072805,3,Anjozorobe,-18.1366,47.71191,ADM2,6295630|6255146|MG|7670856|11072805,Earth|Africa|Madagascar|Analamanga Region|Anjozorobe,1,1
+Analanjirofo,.76468992,0,9,1064980,1,Fenoarivo Atsinanana,-17.380951,49.40826,PPLA,6295630|6255146|MG|7670848|1064980,Earth|Africa|Madagascar|Analanjirofo Region|Fenoarivo Atsinanana,2,1
+Androy,.87331188,0,9,1055320,1,Tranoroa,-24.700001,45.066669,PPL,6295630|6255146|MG|06,Earth|Africa|Madagascar|Tranoroa,2,1
+Anosy,.95976222,0,9,8299289,3,Betroka District,-23.357389,45.936581,ADM2,6295630|6255146|MG|7670910|8299289,Earth|Africa|Madagascar|Anosy Region|Betroka District,1,1
+Atsimo Andrefana,.63406157,0,9,1068322,1,Befoly,-22.033331,43.76667,PPL,6295630|6255146|MG|06,Earth|Africa|Madagascar|Befoly,2,1
+Atsimo Atsinanana,.3592979,0,9,1053641,1,Vohitromby,-22.866671,47.76667,PPL,6295630|6255146|MG|02,Earth|Africa|Madagascar|Vohitromby,2,1
+Atsinanana,.63560504,0,9,1062553,1,Mahanoro,-19.9,48.799999,PPL,6295630|6255146|MG|7670857|1062553,Earth|Africa|Madagascar|Atsinanana Region|Mahanoro,2,1
+Betsiboka,.68408668,0,9,11072831,3,Maevatanana,-17.22802,46.812729,ADM2,6295630|6255146|MG|7670850|11072831,Earth|Africa|Madagascar|Betsiboka Region|Maevatanana,1,1
+Boeny,.55442089,.077118315,9,1083257,1,Ambato Boeny,-16.466669,46.716671,PPL,6295630|6255146|MG|7670849|1083257,Earth|Africa|Madagascar|Boeny Region|Ambato Boeny,2,1
+Bongolava,.96810037,0,9,1060857,1,Mangarivo,-18.85,46.333328,PPL,6295630|6255146|MG|05,Earth|Africa|Madagascar|Mangarivo,2,1
+Diana,.62097484,.042768739,9,1068955,1,Antsohimbondrona,-13.08333,48.849998,PPL,6295630|6255146|MG|7670842|1068955,Earth|Africa|Madagascar|Diana Region|Antsohimbondrona,2,1
+Haute Matsiatra,.9710595,0,9,11102226,1,Tanana Ambany,-21.43104,47.06889,PPL,6295630|6255146|MG|11102226,Earth|Africa|Madagascar|Tanana Ambany,2,1
+Ihorombe,.97660536,0,9,11205047,1,Anarafanja,-22.409281,46.134121,PPLX,6295630|6255146|MG|11205047,Earth|Africa|Madagascar|Anarafanja,2,1
+Itasy,.89299822,0,9,1054876,1,Tsiandrorana,-18.883329,46.549999,PPL,6295630|6255146|MG|05,Earth|Africa|Madagascar|Tsiandrorana,2,1
+Melaky,.85319757,0,9,1066967,1,Beravina,-18.16667,45.216671,PPL,6295630|6255146|MG|03,Earth|Africa|Madagascar|Beravina,2,1
+Menabe,.68589085,0,9,1061831,1,Malaimbandy,-20.34865,45.598412,PPL,6295630|6255146|MG|06,Earth|Africa|Madagascar|Malaimbandy,2,1
+SAVA,.50658542,0,9,1077631,1,Ampohibe,-15.03333,50.299999,PPL,6295630|6255146|MG|01,Earth|Africa|Madagascar|Ampohibe,2,1
+Sofia,.57619554,0,9,1059949,1,Maromandia,-14.21667,48.083328,PPL,6295630|6255146|MG|03,Earth|Africa|Madagascar|Maromandia,2,1
+Vakinankaratra,.97881448,0,9,1069164,1,Antsirabe Afovoany,-15.95,48.966671,PPL,6295630|6255146|MG|7670847|1069164,Earth|Africa|Madagascar|Sofia Region|Antsirabe Afovoany,2,1
+Vatovavy Fitovinany,.81989533,.016496671,9,11256914,3,Maromiandra,-21.683331,47.51667,ADM3,6295630|6255146|MG|11256914,Earth|Africa|Madagascar|Maromiandra,1,1
+Central,.70174277,.081054099,10,925072,3,Ntcheu District,-14.75,34.75,ADM2,6295630|6255146|MW|C|925072,Earth|Africa|Malawi|Central Region|Ntcheu District,1,1
+North,.6880911,.0037392774,10,926163,1,Mpherembe,-11.28333,33.599998,PPL,6295630|6255146|MW|N|925496|926163,Earth|Africa|Malawi|Northern Region|Mzimba District|Mpherembe,2,1
+South,.57354951,.25959685,10,925788,3,Mulanje District,-15.9344,35.499901,ADM2,6295630|6255146|MW|S|925788,Earth|Africa|Malawi|Southern Region|Mulanje District,1,1
+Kayes,.0060914983,.88077456,11,2458985,1,DiangoutÃ© Kamara,14.5448,-9.5127001,PPL,6295630|6255146|ML|03|2458985,Earth|Africa|Mali|Kayes|DiangoutÃ© Kamara,2,1
+Koulikoro,.025448579,.91083342,11,2455558,1,Kati,12.74409,-8.0725698,PPLA2,6295630|6255146|ML|07|2455558,Earth|Africa|Mali|Koulikoro|Kati,2,1
+Sikasso,.025747931,.78164089,11,2454043,1,Loulouni,10.9,-5.5999999,PPL,6295630|6255146|ML|00,Earth|Africa|Mali|Loulouni,2,1
+Ségou,.14276084,.79351658,11,2448367,1,ZandÃ©la,13.14429,-5.7362499,PPL,6295630|6255146|ML|05|2448367,Earth|Africa|Mali|SÃ©gou|ZandÃ©la,2,1
+Mopti,0,.96038222,11,6874899,1,Doukoro,13.6873,-3.7272999,PPL,6295630|6255146|ML|04|6874899,Earth|Africa|Mali|Mopti|Doukoro,2,1
+Bamako,.022325752,.92224151,11,7701196,3,Commune 4,12.61174,-8.04391,ADM3,6295630|6255146|ML|01|7701196,Earth|Africa|Mali|Bamako Region|Commune 4,1,1
+Maputo Province,.80009025,.05278495,12,7873980,3,Moamba District,-25.609341,32.24321,ADM2,6295630|6255146|MZ|04|7873980,Earth|Africa|Mozambique|Maputo|Moamba District,1,1
+Maputo City,.81403244,.073204517,12,1106273,1,Maxaquene âDâ,-25.93194,32.59,PPLX,6295630|6255146|MZ|04|1040652|1106273,Earth|Africa|Mozambique|Maputo|Maputo|Maxaquene âDâ,2,1
+Gaza,.75876129,.010800906,12,7874104,3,Chokwe District,-24.52248,33.00457,ADM2,6295630|6255146|MZ|02|7874104,Earth|Africa|Mozambique|Gaza Province|Chokwe District,1,1
+Inhambane,.93391883,.016033826,12,1024292,1,Zandamela,-24.78861,34.312778,PPL,6295630|6255146|MZ|03|1024292,Earth|Africa|Mozambique|Inhambane Province|Zandamela,2,1
+Sofala,.71555436,.044611372,12,1053023,1,Ampara,-20.26639,34.656109,PPL,6295630|6255146|MZ|05|1053023,Earth|Africa|Mozambique|Sofala Province|Ampara,2,1
+Tete,.7626186,.021597436,12,7874106,3,Tsangano District,-15.20012,34.326851,ADM2,6295630|6255146|MZ|08|7874106,Earth|Africa|Mozambique|Tete|Tsangano District,1,1
+Manica,.76780951,.0060545821,12,7646374,3,Gondola District,-19.15,33.66,ADM2,6295630|6255146|MZ|10|7646374,Earth|Africa|Mozambique|Manica Province|Gondola District,1,1
+Zambezia,.75209963,.075018317,12,1093103,1,Incize,-15.68083,37.099998,PPL,6295630|6255146|MZ|09|1093103,Earth|Africa|Mozambique|ProvÃ­ncia de ZambÃ©zia|Incize,2,1
+Nampula,.41237557,.571509,12,7874410,3,Muecate District,-14.8864,39.627338,ADM2,6295630|6255146|MZ|06|7874410,Earth|Africa|Mozambique|Nampula|Muecate District,1,1
+Cabo Delgado,.41819629,.57278877,12,1052623,1,Balama,-13.34478,38.569389,PPL,6295630|6255146|MZ|00,Earth|Africa|Mozambique|Balama,2,1
+Niassa,.23088156,.76051742,12,7874414,3,Lago District,-12.4632,34.663639,ADM2,6295630|6255146|MZ|07|7874414,Earth|Africa|Mozambique|Niassa Province|Lago District,1,1
+Caprivi,.59928375,0,13,876954,1,Ngala,-17.950001,24.41667,PPL,6295630|6255146|NA|28|876954,Earth|Africa|Namibia|Zambezi Region|Ngala,2,1
+Erongo,.9866544,0,13,3359638,1,Walvis Bay,-22.9575,14.50528,PPL,6295630|6255146|NA|29|3359638,Earth|Africa|Namibia|Erongo|Walvis Bay,2,1
+Hardap,.97647786,0,13,3353540,1,Rehoboth,-23.316999,17.09,PPL,6295630|6255146|NA|30|3353540,Earth|Africa|Namibia|Hardap|Rehoboth,2,1
+Karas,1,0,13,7116015,2,Rosh Pinah,-27.966049,16.76136,PPLL,6295630|6255146|NA|31|7931912|7116015,Earth|Africa|Namibia|Karas|Oranjemund Constituency|Rosh Pinah,2,1
+Kavango,.94942546,0,13,876961,1,Ndiyona,-18.033331,20.700001,PPL,6295630|6255146|NA|40|876961,Earth|Africa|Namibia|Kavango East|Ndiyona,2,1
+Khomas,.94346362,0,13,3352136,1,Windhoek,-22.55941,17.083229,PPLC,6295630|6255146|NA|21|3352136,Earth|Africa|Namibia|Khomas|Windhoek,2,1
+Kunene,.56841022,0,13,7931903,3,Sesfontein Constituency,-19.56106,13.7653,ADM2,6295630|6255146|NA|32|7931903,Earth|Africa|Namibia|Kunene|Sesfontein Constituency,1,1
+Ohangwena,1,0,13,3354170,1,Ongenga,-17.433331,15.68333,PPL,6295630|6255146|NA|33|3354170,Earth|Africa|Namibia|Ohangwena|Ongenga,2,1
+Omaheke,.7914108,0,13,3352919,1,Steinhausen,-21.816669,18.23333,PPL,6295630|6255146|NA|35|3352919,Earth|Africa|Namibia|Omaheke|Steinhausen,2,1
+Omusati,.97867012,.0057365955,13,3357716,1,Elim,-17.716669,15.48333,PPL,6295630|6255146|NA|36|3357716,Earth|Africa|Namibia|Omusati|Elim,2,1
+Oshana,.96690875,0,13,11257218,3,Oshakati West,-17.783331,15.68333,ADM2,6295630|6255146|NA|37|11257218,Earth|Africa|Namibia|Oshana|Oshakati West,1,1
+Oshikoto,.97526932,0,13,11257350,3,Eengodi,-18.219999,17.25861,ADM2,6295630|6255146|NA|38|11257350,Earth|Africa|Namibia|Oshikoto|Eengodi,1,1
+Otjozondjupa,.81908566,0,13,10400504,3,Omatako Constituency,-20.633329,17.73333,ADM2,6295630|6255146|NA|39|10400504,Earth|Africa|Namibia|Otjozondjupa|Omatako Constituency,1,1
+Abia,.93490422,0,14,2353151,1,Aba,5.1065798,7.3666701,PPLA2,6295630|6255146|NG|45|7701374|2353151,Earth|Africa|Nigeria|Abia State|Aba South|Aba,2,1
+Adamawa,.14725563,.83449572,14,2330543,1,Mayo-Belwa,9.0542097,12.05794,PPLA2,6295630|6255146|NG|35|8659813|2330543,Earth|Africa|Nigeria|Adamawa|Mayo-Belwa|Mayo-Belwa,2,1
+Akwa-Ibom,.88969946,.017539689,14,7055580,1,Ikot Esen Oku,4.79847,7.8604598,PPL,6295630|6255146|NG|21|8638463|7055580,Earth|Africa|Nigeria|Akwa Ibom State|Etinan|Ikot Esen Oku,2,1
+Anambra,.9544155,0,14,7701533,3,Njikoka,6.1841998,6.9765501,ADM2,6295630|6255146|NG|25|7701533,Earth|Africa|Nigeria|Anambra|Njikoka,1,1
+Bauchi,.21132824,.77304119,14,2328904,1,Ningi,11.07837,9.5688601,PPLA2,6295630|6255146|NG|46|8634264|9412704|2328904,Earth|Africa|Nigeria|Bauchi|Ningi|Ningi West|Ningi,2,1
+Bayelsa,.88376904,.027679022,14,2326346,1,Olugbobiri,4.6989498,6.0311599,PPL,6295630|6255146|NG|52|8638072|2326346,Earth|Africa|Nigeria|Bayelsa State|Southern Ijaw|Olugbobiri,2,1
+Benue,.87541491,.12400405,14,7730000,3,Kwande,6.8009901,9.4702101,ADM2,6295630|6255146|NG|26|7730000,Earth|Africa|Nigeria|Benue State|Kwande,1,1
+Borno,.16991487,.75179279,14,6776134,1,Banki,11.66207,14.02014,PPL,6295630|6255146|NG|27|8659838|9410109|6776134,Earth|Africa|Nigeria|Borno State|Bama|Gulumba|Banki,2,1
+Cross-River,.89459211,0,14,8638550,3,Calabar Municipal,4.99088,8.3034296,ADM2,6295630|6255146|NG|22|8638550,Earth|Africa|Nigeria|Cross River State|Calabar Municipal,1,1
+Delta,.9359237,.008697141,14,11239171,1,Odion Road,5.50879,5.7509098,RD,6295630|6255146|NG|36|7729943|11239171,Earth|Africa|Nigeria|Delta|Warri South|Odion Road,3,1
+Ebonyi,1,0,14,8659714,3,Abakaliki,6.2564602,8.2113304,ADM2,6295630|6255146|NG|53|8659714,Earth|Africa|Nigeria|Ebonyi State|Abakaliki,1,1
+Edo,.92360377,.076396197,14,2321031,1,Ubiaja,6.6558099,6.3849401,PPLA2,6295630|6255146|NG|37|8636769|2321031,Earth|Africa|Nigeria|Edo|Esan South-East|Ubiaja,2,1
+Ekiti,.87815756,.073406003,14,2338230,1,Ikoro,7.8367901,5.04074,PPL,6295630|6255146|NG|54|8636732|2338230,Earth|Africa|Nigeria|Ekiti State|Ijero|Ikoro,2,1
+Enugu,.94089347,.01264662,14,2327523,1,Ogurugu,6.7863598,6.95017,PPL,6295630|6255146|NG|41|2327523,Earth|Africa|Nigeria|Kogi State|Ogurugu,2,1
+FCT,.75705659,.224452,14,8635054,3,Municipal Area Council,8.9999704,7.3783102,ADM2,6295630|6255146|NG|11|8635054,Earth|Africa|Nigeria|FCT|Municipal Area Council,1,1
+Gombe,.13999791,.82750309,14,8659795,3,Dukku,10.80261,10.82838,ADM2,6295630|6255146|NG|55|8659795,Earth|Africa|Nigeria|Gombe State|Dukku,1,1
+Imo,.9402597,.013914555,14,7729959,3,Orsu,5.8614898,6.9975901,ADM2,6295630|6255146|NG|28|7729959,Earth|Africa|Nigeria|Imo State|Orsu,1,1
+Jigawa,0,1,14,2346192,1,Chaichai,12.01267,9.2476597,PPL,6295630|6255146|NG|39|8634247|9410521|2346192,Earth|Africa|Nigeria|Jigawa State|Ringim|Chaichai|Chaichai,2,1
+Kaduna,.25500298,.64995575,14,8634542,3,Jema'A,9.3826904,8.2681303,ADM2,6295630|6255146|NG|23|8634542,Earth|Africa|Nigeria|Kaduna State|Jema'A,1,1
+Kano,.012371674,.98762834,14,9410969,3,Chiranchi,11.93178,8.4760103,ADM3,6295630|6255146|NG|29|7871268|9410969,Earth|Africa|Nigeria|Kano State|Kumbotso|Chiranchi,1,1
+Katsina,.048846133,.95115387,14,9411046,3,Yanduna,12.82308,8.5961599,ADM3,6295630|6255146|NG|24|8633564|9411046,Earth|Africa|Nigeria|Katsina State|Baure|Yanduna,1,1
+Kebbi,0,1,14,2330556,1,Mayalo,12.25046,4.2768402,PPL,6295630|6255146|NG|40|7873917|9411450|2330556,Earth|Africa|Nigeria|Kebbi State|Maiyama|Sambawa Mayalo|Mayalo,2,1
+Kogi,.58063823,.41936177,14,7729968,3,Ibaji,6.7993102,6.7630301,ADM2,6295630|6255146|NG|41|7729968,Earth|Africa|Nigeria|Kogi State|Ibaji,1,1
+Kwara,.33116895,.66883105,14,2332504,1,Lafiagi,8.8529902,5.41641,PPLA2,6295630|6255146|NG|30|8635168|2332504,Earth|Africa|Nigeria|Kwara State|Edu|Lafiagi,2,1
+Lagos,.66553926,.31812522,14,10490108,3,Oke-Arin Idumota Ward,6.46134,3.38451,ADM3,6295630|6255146|NG|05|10490108,Earth|Africa|Nigeria|Lagos|Oke-Arin Idumota Ward,1,1
+Nasarawa,.76478291,.21271715,14,2339886,1,Gwadanye,8.3999996,8.5500002,PPL,6295630|6255146|NG|56|7932057|2339886,Earth|Africa|Nigeria|Nasarawa State|Obi|Gwadanye,2,1
+Niger,.35766643,.55736744,14,8634912,3,Mariga,10.69917,5.8403802,ADM2,6295630|6255146|NG|31|8634912,Earth|Africa|Nigeria|Niger State|Mariga,1,1
+Ogun,.67491072,.28447181,14,11205639,1,Ake,7.1641202,3.3508,PPLX,6295630|6255146|NG|16|8636330|11205639,Earth|Africa|Nigeria|Ogun State|Abeokuta South|Ake,2,1
+Ondo,.80750108,.19249891,14,2325721,1,Oro,6.8982401,4.8978,PPL,6295630|6255146|NG|48|7873875|2325721,Earth|Africa|Nigeria|Ondo State|Odigbo|Oro,2,1
+Osun,.5410226,.38894379,14,2338872,1,Ifon,7.85992,4.4762101,PPLA2,6295630|6255146|NG|42|8636372|2338872,Earth|Africa|Nigeria|Osun State|Orolu|Ifon,2,1
+Oyo,.55209428,.42743111,14,2327735,1,Ogbomoso,8.1337299,4.24014,PPLA2,6295630|6255146|NG|32|8636068|2327735,Earth|Africa|Nigeria|Oyo State|Ogbomosho North|Ogbomoso,2,1
+Plateau,.86007935,.089820035,14,8634508,3,Wase,9.0826101,10.20519,ADM2,6295630|6255146|NG|49|8634508,Earth|Africa|Nigeria|Plateau State|Wase,1,1
+Rivers,.9462803,0,14,2334017,1,Kono,4.5975399,7.4963298,PPL,6295630|6255146|NG|50|7874704|2334017,Earth|Africa|Nigeria|Rivers State|Khana|Kono,2,1
+Sokoto,.072617203,.86005467,14,2346742,1,Gidan-Buwai,13.03475,5.5924401,PPL,6295630|6255146|NG|51|8632720|9411649|2346742,Earth|Africa|Nigeria|Sokoto State|Rabah|Goddodi|Gidan-Buwai,2,1
+Taraba,.61911696,.34352538,14,2321730,1,Tsokundi,7.87677,10.01996,PPL,6295630|6255146|NG|43|8659780|2321730,Earth|Africa|Nigeria|Taraba State|Wukari|Tsokundi,2,1
+Yobe,.1473155,.8526845,14,2324767,1,Potiskum,11.71391,11.08108,PPLA2,6295630|6255146|NG|44|8659873|9411935|2324767,Earth|Africa|Nigeria|Yobe State|Potiskum|Dogon Nini|Potiskum,2,1
+Zamfara,.048497286,.93175548,14,7873916,3,Gummi,12.05409,5.1135998,ADM2,6295630|6255146|NG|57|7873916,Earth|Africa|Nigeria|Zamfara State|Gummi,1,1
+Dakar,.071065612,.9289344,15,2253193,1,Darou Khoudos,15.107,-16.836901,PPL,6295630|6255146|SN|07|2253193,Earth|Africa|Senegal|RÃ©gion de ThiÃ¨s|Darou Khoudos,2,1
+Diourbel,0,1,15,2253185,1,Darou Marnane,14.83333,-15.88333,PPL,6295630|6255146|SN|03|2253185,Earth|Africa|Senegal|Diourbel|Darou Marnane,2,1
+Fatick,.097157367,.90284264,15,2252233,1,Djilor,14.06667,-16.33333,PPL,6295630|6255146|SN|09|2252233,Earth|Africa|Senegal|Fatick|Djilor,2,1
+Kaffrine,0,1,15,7303935,4,RÃ©gion de Kaffrine,14.10528,-15.54565,ADM1,6295630|6255146|SN|16,Earth|Africa|Senegal|RÃ©gion de Kaffrine,1,1
+Kaolack,0,1,15,2250671,1,Kaymor,13.76667,-15.6,PPL,6295630|6255146|SN|10|2250671,Earth|Africa|Senegal|Kaolack|Kaymor,2,1
+Kédougou,.25,.75,15,10778875,3,DÃ©partement de SalÃ©mata,12.59971,-12.77619,ADM2,6295630|6255146|SN|17|10778875,Earth|Africa|Senegal|RÃ©gion de KÃ©dougou|DÃ©partement de SalÃ©mata,1,1
+Kolda,0,1,15,2247283,1,Niaming,13.31667,-14.75,PPL,6295630|6255146|SN|11|2247283,Earth|Africa|Senegal|Kolda|Niaming,2,1
+Louga,0,1,15,2248075,1,Ndande,15.2722,-16.517,PPL,6295630|6255146|SN|13|2248075,Earth|Africa|Senegal|Louga|Ndande,2,1
+Matam,.017162405,.98283762,15,2244170,1,VÃ©lingara,15,-14.66667,PPL,6295630|6255146|SN|13|2244170,Earth|Africa|Senegal|Louga|VÃ©lingara,2,1
+Saint-Louis,.071299002,.92870098,15,2246544,1,Richard-Toll,16.4625,-15.70083,PPL,6295630|6255146|SN|14|2246544,Earth|Africa|Senegal|Saint-Louis|Richard-Toll,2,1
+Sédhiou,0,1,15,10402310,3,Goudomp Department,12.57778,-15.87222,ADM2,6295630|6255146|SN|18|10402310,Earth|Africa|Senegal|RÃ©gion de SÃ©dhiou|Goudomp Department,1,1
+Tambacounda,.036410425,.96358955,15,2245278,1,SissÃ©kounda,13.56667,-14.43333,PPL,6295630|6255146|SN|05|2245278,Earth|Africa|Senegal|Tambacounda|SissÃ©kounda,2,1
+Thies,.077679262,.92232072,15,2244286,1,Touba Toul,14.81667,-16.66667,PPL,6295630|6255146|SN|07|2244286,Earth|Africa|Senegal|RÃ©gion de ThiÃ¨s|Touba Toul,2,1
+Ziguinchor,.18280864,.81719136,15,2243940,1,Ziguinchor,12.56801,-16.27326,PPLA,6295630|6255146|SN|12|2243940,Earth|Africa|Senegal|Ziguinchor|Ziguinchor,2,1
+Eastern Cape,.74729991,.0036626689,16,994978,1,Idutywa,-32.09618,28.30489,PPL,6295630|6255146|ZA|05|8347342|8347480|994978,Earth|Africa|South Africa|Eastern Cape|Amathole District Municipality|Mbhashe|Idutywa,2,1
+Free State,.89160705,0,16,11205515,1,42nd Hill,-28.24292,29.08353,PPLX,6295630|6255146|ZA|03|8347361|8347463|11205515,Earth|Africa|South Africa|Orange Free State|Thabo Mofutsanyana District Municipality|Maluti a Phofung|42nd Hill,2,1
+Gauteng,.78271371,.042231902,16,948542,1,Tokoza,-26.366671,28.066669,PPL,6295630|6255146|ZA|06|8347377|8347533|948542,Earth|Africa|South Africa|Gauteng|Sedibeng District Municipality|Midvaal|Tokoza,2,1
+Kwazulu Natal,.78540862,.010709508,16,971053,1,Ngotshe,-27.48333,31.283331,PPL,6295630|6255146|ZA|02|8347367|8347431|971053,Earth|Africa|South Africa|KwaZulu-Natal|Zululand District Municipality|UPhongolo|Ngotshe,2,1
+Limpopo,.91278571,.0023264524,16,1010967,1,Dendron,-23.36669,29.323709,PPLA3,6295630|6255146|ZA|09|8347346|8347603|1010967,Earth|Africa|South Africa|Limpopo|Capricorn District Municipality|Molemole|Dendron,2,1
+Mpumalanga,.79979259,.021074921,16,11203958,1,KwaGuqa,-25.862431,29.11875,PPL,6295630|6255146|ZA|07|8347372|8347595|11203958,Earth|Africa|South Africa|Mpumalanga|Nkangala District Municipality|Emalahleni|KwaGuqa,2,1
+North West,.91653955,.0024899133,16,8347347,3,Bojanala Platinum,-25.426121,27.2243,ADM2,6295630|6255146|ZA|10|8347347,Earth|Africa|South Africa|Province of North West|Bojanala Platinum,1,1
+Northern Cape,.94450676,.005815444,16,11204576,1,Galeshewe,-28.716999,24.725,PPLX,6295630|6255146|ZA|08|8347385|8347551|11204576,Earth|Africa|South Africa|Northern Cape|Frances Baard District Municipality|Sol Plaatjie|Galeshewe,2,1
+Western Cape,.89042711,.063211456,16,6951112,1,Somerset West,-34.084011,18.821131,PPL,6295630|6255146|ZA|11|8334583|8347437|6951112,Earth|Africa|South Africa|Province of the Western Cape|City of Cape Town|City of Cape Town|Somerset West,2,1
+Dodoma,.73043251,.25127244,17,11004068,3,Itiso,-5.6654501,35.98497,ADM3,6295630|6255146|TZ|03|7628450|11004068,Earth|Africa|Tanzania|Dodoma|Chamwino|Itiso,1,1
+Arusha,.87312943,.059838191,17,11003847,3,Levolosi,-3.36747,36.68087,ADM3,6295630|6255146|TZ|26|9998003|11003847,Earth|Africa|Tanzania|Arusha|Arusha City|Levolosi,1,1
+Kilimanjaro,.82762492,.15632978,17,7840035,3,Moshi Rural District,-3.362,37.459,ADM2,6295630|6255146|TZ|06|7840035,Earth|Africa|Tanzania|Kilimanjaro|Moshi Rural District,1,1
+Tanga,.21423644,.78576356,17,149590,6,Tanzania,-6,35,PCLI,6295630|6255146|TZ,Earth|Africa|Tanzania,1,1
+Morogoro,.38006583,.6199342,17,7647668,3,Morogoro Rural,-6.75,38.116669,ADM2,6295630|6255146|TZ|10|7647668,Earth|Africa|Tanzania|Morogoro|Morogoro Rural,1,1
+Pwani,.11410569,.8858943,17,160205,1,Disunyara,-6.7333298,38.73333,PPL,6295630|6255146|TZ|02|7647520|11006126|160205,Earth|Africa|Tanzania|Pwani|Kibaha District|Mlandizi|Disunyara,2,1
+Dar es Salaam,.34975627,.61310983,17,157253,3,Kinondoni District,-6.71666,39.144371,ADM2,6295630|6255146|TZ|23|157253,Earth|Africa|Tanzania|Dar es Salaam Region|Kinondoni District,1,1
+Lindi,.12552644,.85531855,17,11004978,3,Nandagala,-10.21993,38.979149,ADM3,6295630|6255146|TZ|07|7647667|11004978,Earth|Africa|Tanzania|Lindi|Ruangwa|Nandagala,1,1
+Mrwara,.20196591,.79803407,17,11005661,3,Chihangu,-10.59709,39.229191,ADM3,6295630|6255146|TZ|11|877533|11005661,Earth|Africa|Tanzania|Mtwara|Newala District|Chihangu,1,1
+Ruvuma,.21346541,.77769446,17,878023,1,Mbamba Bay,-11.28333,34.76667,PPL,6295630|6255146|TZ|14|878023,Earth|Africa|Tanzania|Ruvuma|Mbamba Bay,2,1
+Iringa,.8862195,.11132986,17,11006005,3,Lupembe,-9.2490597,35.268349,ADM3,6295630|6255146|TZ|30|151477|11006005,Earth|Africa|Tanzania|Njombe|Njombe District Council|Lupembe,1,1
+Mbeya,.90693867,.019805215,17,11005343,3,Isange,-9.16856,33.834068,ADM3,6295630|6255146|TZ|09|150412|11005343,Earth|Africa|Tanzania|Mbeya|Rungwe District Council|Isange,1,1
+Singida,.6154114,.3845886,17,11006619,3,Iseke,-5.0798202,34.66713,ADM3,6295630|6255146|TZ|16|9998225|11006619,Earth|Africa|Tanzania|Singida|Ikungi District Council|Iseke,1,1
+Tabora,.44282207,.49993762,17,11006733,3,Goweko,-5.2681298,33.182159,ADM3,6295630|6255146|TZ|17|7647455|11006733,Earth|Africa|Tanzania|Tabora|Uyui District|Goweko,1,1
+Rukwa,.83815551,.074629299,17,11005459,3,Myunga,-8.8600502,32.302132,ADM3,6295630|6255146|TZ|09|9998151|11005459,Earth|Africa|Tanzania|Mbeya|Momba District Council|Myunga,1,1
+Kigoma,.74759489,.25240511,17,11004652,3,Kibondo,-3.6224999,30.740089,ADM3,6295630|6255146|TZ|05|157958|11004652,Earth|Africa|Tanzania|Kigoma|Kibondo District Council|Kibondo,1,1
+Shinyanga,.49259457,.076943852,17,11004234,3,Iyogelo,-3.94594,31.63611,ADM3,6295630|6255146|TZ|28|8299600|11004234,Earth|Africa|Tanzania|Geita|Bukombe District|Iyogelo,1,1
+Kagera,.85591161,.1084521,17,160833,1,Buseresere,-3.0236101,31.87472,PPL,6295630|6255146|TZ|28|9072755|11004212|160833,Earth|Africa|Tanzania|Geita|Chato District|Butengorumasa|Buseresere,2,1
+Mwanza,.50780016,.11405762,17,8469239,4,Geita,-3.2,31.9,ADM1,6295630|6255146|TZ|28,Earth|Africa|Tanzania|Geita,1,1
+Mara,.55045998,.13467526,17,11005184,3,Kigera,-1.53994,33.79541,ADM3,6295630|6255146|TZ|08|9998138|11005184,Earth|Africa|Tanzania|Mara|Musoma Municipal Council|Kigera,1,1
+Manyara,.78544968,.11940183,17,159684,3,Hanang District,-4.5,35.25,ADM2,6295630|6255146|TZ|27|159684,Earth|Africa|Tanzania|Manyara|Hanang District,1,1
+Unguja Kaskazini,.032167707,.96783227,17,11204826,3,Kaskazini A,-5.8660402,39.315948,ADM2,6295630|6255146|TZ|22|11204826,Earth|Africa|Tanzania|Zanzibar North|Kaskazini A,1,1
+Unfuja Kusini,.037941881,.96205813,17,150839,1,Paje,-6.2666702,39.533329,PPL,6295630|6255146|TZ|21|11204829|150840|150839,Earth|Africa|Tanzania|Zanzibar Central/South|Kusini|Paje|Paje,2,1
+Mjini Magharibi,.013091201,.98032808,17,153262,1,Mombasa,-6.1999998,39.216671,PPL,6295630|6255146|TZ|25|11204825|153263|153262,Earth|Africa|Tanzania|Zanzibar Urban/West|Magharibi|Mombasa|Mombasa,2,1
+Pemba Kaskazini,0,1,17,10951169,3,Mjini Wingwi,-4.9978099,39.84222,ADM3,6295630|6255146|TZ|13|156512|10951169,Earth|Africa|Tanzania|Pemba North|Micheweni District|Mjini Wingwi,1,1
+Pemba Kusini,.058109939,.94189006,17,160675,3,Chake Chake District,-5.2473402,39.773899,ADM2,6295630|6255146|TZ|20|160675,Earth|Africa|Tanzania|Pemba South|Chake Chake District,1,1
+Central,.82161099,.15586503,18,11238162,3,Nansana,.36853999,32.525711,ADM5,6295630|6255146|UG|C|448224|7732385|8658059|11238162,Earth|Africa|Uganda|Central Region|Wakiso District|Kyadondo|Nansana Town Council|Nansana,1,1
+West,.92833066,.045977902,18,11238110,3,Kitegula,.95833999,31.42931,ADM5,6295630|6255146|UG|W|443343|8644161|8657988|11238110,Earth|Africa|Uganda|Western Region|Kibale District|Bugangaizi|Nkooko|Kitegula,1,1
+North,.89820272,.095720418,18,8658301,3,Odupi,3.2288401,31.258221,ADM4,6295630|6255146|UG|N|443328|226158|8658301,Earth|Africa|Uganda|Northern Region|Arua District|Terego County|Odupi,1,1
+East,.82349592,.1469235,18,8657528,3,Iyolwa,.61812001,33.95789,ADM4,6295630|6255146|UG|E|443366|8644131|8657528,Earth|Africa|Uganda|Eastern Region|Tororo District|West Budama (Kisolo)|Iyolwa,1,1
+Kampala,.77276349,.20361245,18,11205131,3,Bukasa,.29683,32.62392,ADM5,6295630|6255146|UG|C|443339|8644170|8260676|11205131,Earth|Africa|Uganda|Central Region|Kampala District|Kampala Capital City|Makindye|Bukasa,1,1
+Lusaka,.7576977,.019831821,19,9166491,3,Chawama,-15.27324,28.165751,AREA,6295630|6255146|ZM|02|9166491,Earth|Africa|Zambia|Central Province|Chawama,4,1
+Central,.76454222,0,19,910181,1,Liteta,-14.77744,28.062599,PPL,6295630|6255146|ZM|02|910181,Earth|Africa|Zambia|Central Province|Liteta,2,1
+Copperbelt,.8631987,.008222227,19,901342,3,Ndola District,-12.94155,28.54896,ADM2,6295630|6255146|ZM|08|901342,Earth|Africa|Zambia|Copperbelt|Ndola District,1,1
+Eastern,.79067737,.038649026,19,912053,3,Katete District,-14.04074,32.043289,ADM2,6295630|6255146|ZM|03|912053,Earth|Africa|Zambia|Eastern Province|Katete District,1,1
+Luapula,.38135991,.010735568,19,918748,1,Chipamba,-11.50803,32.773911,PPL,6295630|6255146|ZM|10|918748,Earth|Africa|Zambia|Muchinga|Chipamba,2,1
+Northern,.81931949,0,19,912763,3,Kasama District,-10.35783,30.98983,ADM2,6295630|6255146|ZM|05|912763,Earth|Africa|Zambia|Northern Province|Kasama District,1,1
+North-Western,.7667802,0,19,902616,3,Mwinilunga District,-12.00079,24.58469,ADM2,6295630|6255146|ZM|06|902616,Earth|Africa|Zambia|North-Western Province|Mwinilunga District,1,1
+Southern,.55110693,0,19,907108,3,Mazabuka District,-15.85212,27.71608,ADM2,6295630|6255146|ZM|07|907108,Earth|Africa|Zambia|Southern Province|Mazabuka District,1,1
+Western,.67007577,0,19,10815321,3,Nkeyema District,-14.85076,25.14925,ADM2,6295630|6255146|ZM|01|10815321,Earth|Africa|Zambia|Western Province|Nkeyema District,1,1
+Muchinga,.67523199,0,19,920896,3,Chama District,-11.25,32.833328,ADM2,6295630|6255146|ZM|10|920896,Earth|Africa|Zambia|Muchinga|Chama District,1,1
+Harare,.77233374,.0087721944,20,1106396,1,Budiriro,-17.897221,30.933611,PPLX,6295630|6255146|ZW|04|890299|1106396,Earth|Africa|Zimbabwe|Mashonaland East Province|Harare|Budiriro,2,1
+Bulawayo,.71758252,0,20,886841,4,Mashonaland West,-17.16667,29.75,ADM1,6295630|6255146|ZW|05,Earth|Africa|Zimbabwe|Mashonaland West,1,1
+Midlands,.6073662,0,20,1106113,1,Nketa,-20.1975,28.53194,PPLX,6295630|6255146|ZW|09|894701|1106113,Earth|Africa|Zimbabwe|Bulawayo|Bulawayo|Nketa,2,1
+Masvingo,.67148906,.0081872586,20,883059,1,Palm Tree,-17.133329,30.1,FRM,6295630|6255146|ZW|00,Earth|Africa|Zimbabwe|Palm Tree,3,1
+Mashonaland East,.71063763,0,20,889793,3,Insiza District,-20.264311,29.473921,ADM2,6295630|6255146|ZW|07|889793,Earth|Africa|Zimbabwe|Matabeleland South Province|Insiza District,1,1
+Mashonaland West,.740417,.0035887889,20,886841,4,Mashonaland West,-17.16667,29.75,ADM1,6295630|6255146|ZW|05,Earth|Africa|Zimbabwe|Mashonaland West,1,1
+Mashonaland Central,.52152181,.0036928372,20,894459,3,Centenary District,-16.41667,31.16667,ADM2,6295630|6255146|ZW|03|894459,Earth|Africa|Zimbabwe|Mashonaland Central|Centenary District,1,1
+Matebeleland South,.64610058,0,20,895268,3,Beitbridge District,-21.898291,30.074089,ADM2,6295630|6255146|ZW|07|895268,Earth|Africa|Zimbabwe|Matabeleland South Province|Beitbridge District,1,1
+Matebeleland North,.6228677,0,20,895268,3,Beitbridge District,-21.898291,30.074089,ADM2,6295630|6255146|ZW|07|895268,Earth|Africa|Zimbabwe|Matabeleland South Province|Beitbridge District,1,1
+Manicaland,.61988664,.0035014583,20,895540,1,Avondale Township,-17.79611,31.034719,PPLX,6295630|6255146|ZW|10|890299|895540,Earth|Africa|Zimbabwe|Harare|Harare|Avondale Township,2,1
+Port Louis,.32506135,.51628375,21,1106804,1,Tranquebar,-20.174721,57.505829,PPLX,6295630|6255146|MU|18|934154|1106804,Earth|Africa|Mauritius|Port Louis District|Port Louis|Tranquebar,2,1
+Pamplemousses,.30763111,.14703049,21,1106616,1,Baie du Tombeau,-20.11944,57.49139,PPL,6295630|6255146|MU|16|1106616,Earth|Africa|Mauritius|Pamplemousses District|Baie du Tombeau,2,1
+Riviere du Rempart,.14182951,.19283345,21,934091,1,RiviÃ¨re du Rempart,-20.10306,57.684719,PPLA,6295630|6255146|MU|19|934091,Earth|Africa|Mauritius|RiviÃ¨re du Rempart District|RiviÃ¨re du Rempart,2,1
+Flacq,.11521812,.16648352,21,934661,1,Camp de Masque,-20.23694,57.66333,PPL,6295630|6255146|MU|13|934661,Earth|Africa|Mauritius|Flacq District|Camp de Masque,2,1
+Grand Port,.15879628,.12584826,21,934309,1,Mare dâAlbert,-20.41861,57.62278,PPL,6295630|6255146|MU|14|934309,Earth|Africa|Mauritius|Grand Port District|Mare dâAlbert,2,1
+Savanne,.039123442,.30554885,21,934614,1,Chemin Grenier,-20.487221,57.465561,PPL,6295630|6255146|MU|20|934614,Earth|Africa|Mauritius|Savanne District|Chemin Grenier,2,1
+Plaines Wilhems,.35659879,.17869563,21,1106731,1,Mesnil,-20.290279,57.511669,PPL,6295630|6255146|MU|17|1106731,Earth|Africa|Mauritius|Plaines Wilhems District|Mesnil,2,1
+Moka,.11946494,.31322265,21,934262,1,Montagne Blanche,-20.285379,57.658649,PPL,6295630|6255146|MU|00,Earth|Africa|Mauritius|Montagne Blanche,2,1
+Black River,.44282028,.022985687,21,934718,4,Black River District,-20.33333,57.416672,ADM1,6295630|6255146|MU|12,Earth|Africa|Mauritius|Black River District,1,1
+Rodrigues,.99352157,0,21,1547449,4,Rodrigues,-19.701,63.416,ADM1,6295630|6255146|MU|23,Earth|Africa|Mauritius|Rodrigues,1,1
+Western Area,.46968228,.51361459,22,2404977,1,Murray Town,8.49195,-13.26501,PPL,6295630|6255146|SL|04|2404977,Earth|Africa|Sierra Leone|Western Area|Murray Town,2,1
+Southern Province,.37130249,.61131608,22,9180429,3,Makpele,7.2765298,-11.30709,ADM3,6295630|6255146|SL|03|9180429,Earth|Africa|Sierra Leone|Southern Province|Makpele,1,1
+Eastern Province,.42183501,.57109058,22,2408249,3,Kailahun District,8.1076803,-10.75146,ADM2,6295630|6255146|SL|01|2408249,Earth|Africa|Sierra Leone|Eastern Province|Kailahun District,1,1
+Northern Province,.47846517,.46234041,22,2404488,1,Petifu,8.8998404,-12.17265,PPL,6295630|6255146|SL|02|2404488,Earth|Africa|Sierra Leone|Northern Province|Petifu,2,1
+Agadez,0,1,23,11205134,3,Commune de Tchirozerine,17.1054,7.8281002,ADM3,6295630|6255146|NE|01|11205134,Earth|Africa|Niger|Agadez|Commune de Tchirozerine,1,1
+Diffa,.0822194,.91778058,23,2444298,1,Goudoumaria,13.7109,11.1885,PPL,6295630|6255146|NE|02|2444298,Earth|Africa|Niger|Diffa|Goudoumaria,2,1
+Dosso,.029560488,.95413876,23,2444975,1,FodÃ©-KaÃ¯na,13.122,3.2980001,PPL,6295630|6255146|NE|03|2444975,Earth|Africa|Niger|Dosso Region|FodÃ©-KaÃ¯na,2,1
+Maradi,0,1,23,2441291,1,Maradi,13.5,7.1017399,PPLA,6295630|6255146|NE|04|2441291,Earth|Africa|Niger|Maradi|Maradi,2,1
+Tahoua,.0099070333,.98574722,23,2447317,1,BadÃ©gichÃ©ri,14.5245,5.3676,PPL,6295630|6255146|NE|06|2447317,Earth|Africa|Niger|Tahoua|BadÃ©gichÃ©ri,2,1
+Tillabéri,0,1,23,2446542,1,Boulkass,13.8288,3.0834999,PPL,6295630|6255146|NE|09|2446542,Earth|Africa|Niger|Tillaberi Region|Boulkass,2,1
+Zinder,0,1,23,10943048,3,Mirriah Department,13.70722,9.1499996,ADM2,6295630|6255146|NE|07|10943048,Earth|Africa|Niger|Zinder|Mirriah Department,1,1
+Niamey,.017066257,.96667445,23,11205494,1,Koira Kano,13.54359,2.06161,PPLX,6295630|6255146|NE|08|11205494,Earth|Africa|Niger|Niamey|Koira Kano,2,1
+Lomé commune,.80172068,.069995649,24,11205304,1,Attiegou,6.1965299,1.2616301,PPLX,6295630|6255146|TG|11205304,Earth|Africa|Togo|Attiegou,2,1
+Maritime,.62344676,.056614529,24,11205313,1,Agouenyive,6.2360201,1.19991,PPL,6295630|6255146|TG|11205313,Earth|Africa|Togo|Agouenyive,2,1
+Plateaux,.73578107,.093846299,24,2367981,1,AniÃ©,7.75,1.2,PPL,6295630|6255146|TG|25|2367981,Earth|Africa|Togo|Plateaux|AniÃ©,2,1
+Centrale,.35426757,.61125255,24,2367423,1,Blitta,8.32335,.98594999,PPL,6295630|6255146|TG|22|2367423,Earth|Africa|Togo|Centrale|Blitta,2,1
+Kara,.50891393,.36669719,24,2366152,1,Kara,9.5511103,1.18611,PPLA,6295630|6255146|TG|23|2366152,Earth|Africa|Togo|Kara|Kara,2,1
+Savanes,.52985471,.10510041,24,2367164,1,Dapaong,10.86225,.20761999,PPLA,6295630|6255146|TG|26|2367164,Earth|Africa|Togo|Savanes|Dapaong,2,1
+Bubanza,.89615804,.016124973,25,428470,2,Kivyiru,-3.0476999,29.387699,PPLL,6295630|6255146|BI|09|428470,Earth|Africa|Burundi|Bubanza|Kivyiru,2,1
+Bujumbura,.91207564,.016464014,25,423753,2,Bugarama,-3.7109001,29.357401,PPLL,6295630|6255146|BI|26|423753,Earth|Africa|Burundi|Rumonge|Bugarama,2,1
+Bujumbura Mairie,.79242748,.11886999,25,7670612,3,Commune of Rohero,-3.3835001,29.371941,ADM2,6295630|6255146|BI|24|7670612,Earth|Africa|Burundi|Bujumbura Mairie|Commune of Rohero,1,1
+Bururi,.96075779,.014362811,25,423333,2,Burunga,-3.9474001,29.562,PPLL,6295630|6255146|BI|10|423333,Earth|Africa|Burundi|Bururi|Burunga,2,1
+Cankuzo,.88759536,.035347056,25,427437,1,Gisagara,-3.1930001,30.795401,PPL,6295630|6255146|BI|11|427437,Earth|Africa|Burundi|Cankuzo|Gisagara,2,1
+Cibitoke,.88314152,0,25,9072889,3,Commune of Mugina,-2.7941699,29.128059,ADM2,6295630|6255146|BI|12|9072889,Earth|Africa|Burundi|Cibitoke|Commune of Mugina,1,1
+Gitega,.9899807,0,25,425986,2,Gitongo,-3.2704999,29.825399,PPLL,6295630|6255146|BI|13|425986,Earth|Africa|Burundi|Gitega|Gitongo,2,1
+Karusi,.97355598,0,25,428304,1,Kivoga,-3.17893,30.087641,PPL,6295630|6255146|BI|14|428304,Earth|Africa|Burundi|Karuzi|Kivoga,2,1
+Kayanza,.9475376,.024765488,25,9072885,3,Commune of Matongo,-3.0894401,29.61194,ADM2,6295630|6255146|BI|15|9072885,Earth|Africa|Burundi|Kayanza|Commune of Matongo,1,1
+Kirundo,.91051,.048030362,25,11239036,3,Kararire,-2.5608499,30.1782,ADM4,6295630|6255146|BI|16|11239036,Earth|Africa|Burundi|Kirundo|Kararire,1,1
+Makamba,.97149473,.028505269,25,422233,4,Makamba,-4.1666698,29.752781,ADM1,6295630|6255146|BI|17,Earth|Africa|Burundi|Makamba,1,1
+Muramvya,.95666343,0,25,7670615,3,Rutegama,-3.30779,29.74785,ADM2,6295630|6255146|BI|22|7670615,Earth|Africa|Burundi|Muramvya|Rutegama,1,1
+Muyinga,.7885592,.14209315,25,427830,2,Gitaba,-3.0574701,30.3951,LCTY,6295630|6255146|BI|18|427830,Earth|Africa|Burundi|Muyinga|Gitaba,2,1
+Mwaro,1,0,25,427568,2,Kibimba,-3.10852,30.716249,LCTY,6295630|6255146|BI|11|427568,Earth|Africa|Burundi|Cankuzo|Kibimba,2,1
+Ngozi,.92752695,.058666434,25,430391,1,Kiremba,-2.8211,29.982599,PPL,6295630|6255146|BI|19|430391,Earth|Africa|Burundi|Ngozi|Kiremba,2,1
+Rutana,.9777106,0,25,424941,1,Musongati,-3.7289,30.101101,PPL,6295630|6255146|BI|20|424941,Earth|Africa|Burundi|Rutana|Musongati,2,1
+Ruyigi,.98643208,0,25,426699,4,Ruyigi,-3.45,30.316669,ADM1,6295630|6255146|BI|21,Earth|Africa|Burundi|Ruyigi,1,1
+Yaounde,.94048244,.023131177,26,2220957,1,YaoundÃ©,3.8666699,11.51667,PPLC,6295630|6255146|CM|11|2220957,Earth|Africa|Cameroon|Centre|YaoundÃ©,2,1
+Douala,.85538793,.056115095,26,2232593,1,Douala,4.0482702,9.7042799,PPLA,6295630|6255146|CM|05|2232593,Earth|Africa|Cameroon|Littoral|Douala,2,1
+Adamawa,.42891562,.5570882,26,2224827,1,NgaoundÃ©rÃ©,7.3276501,13.58472,PPLA,6295630|6255146|CM|10|2224827,Earth|Africa|Cameroon|Adamaoua|NgaoundÃ©rÃ©,2,1
+Centre,.98160148,.015978027,26,2230312,1,Kiki,4.6666698,11.18333,PPL,6295630|6255146|CM|11|2230312,Earth|Africa|Cameroon|Centre|Kiki,2,1
+East,.80367851,.12018371,26,2234663,1,Batouri,4.4333301,14.36667,PPL,6295630|6255146|CM|04|2234663,Earth|Africa|Cameroon|East|Batouri,2,1
+Extreme-North,.5665307,.37288249,26,2229798,1,KoussÃ©ri,12.07689,15.03063,PPL,6295630|6255146|CM|12|2229798,Earth|Africa|Cameroon|Far North|KoussÃ©ri,2,1
+Littoral,.96311522,.023745874,26,2228499,1,Manjo,4.8428001,9.8217001,PPL,6295630|6255146|CM|05|2228499,Earth|Africa|Cameroon|Littoral|Manjo,2,1
+North,.42525092,.54374737,26,11257194,3,Pitoa,9.3833303,13.5333,ADM3,6295630|6255146|CM|13|11257194,Earth|Africa|Cameroon|North|Pitoa,1,1
+North West,.86951447,.100531,26,7108018,1,Nkwen,5.9951701,10.19376,PPL,6295630|6255146|CM|07|7108018,Earth|Africa|Cameroon|North-West|Nkwen,2,1
+West,.84037352,.11622754,26,2228048,1,Mbamkouop,5.65516,10.61123,PPL,6295630|6255146|CM|08|2228048,Earth|Africa|Cameroon|West|Mbamkouop,2,1
+Sud,.9558329,0,26,2231979,1,Eminemvon,2.96667,11.78333,PPL,6295630|6255146|CM|14|2231979,Earth|Africa|Cameroon|South|Eminemvon,2,1
+Sud-Ouest,.956213,0,26,2594817,1,Bakundu Foe,4.4720998,9.2235003,PPL,6295630|6255146|CM|09|2594817,Earth|Africa|Cameroon|South-West|Bakundu Foe,2,1
+Agneby,.78933007,.19584852,27,10629069,3,Commune of AzaguiÃ©,5.6333299,-4.0833302,ADM5,6295630|6255146|CI|06,Earth|Africa|Ivory Coast|Commune of AzaguiÃ©,1,1
+Bafing,.20275542,.79724455,27,2288559,1,GuintÃ©guÃ©la,8.2904396,-7.3092699,PPL,6295630|6255146|CI|97|2288559,Earth|Africa|Ivory Coast|Woroba|GuintÃ©guÃ©la,2,1
+Bas Sassandra,.56693548,.23030321,27,2282006,1,San-PÃ©dro,4.7485099,-6.6363001,PPLA,6295630|6255146|CI|76|2282006,Earth|Africa|Ivory Coast|Bas-Sassandra|San-PÃ©dro,2,1
+Denguele,0,1,27,2283014,3,Sous-prÃ©fecture dâOdiennÃ©,9.4890003,-7.6055598,ADM4,6295630|6255146|CI|77|2283014,Earth|Africa|Ivory Coast|DenguÃ©lÃ©|Sous-prÃ©fecture dâOdiennÃ©,1,1
+Fromager,.60501248,.056071099,27,2291962,1,Bayota,6.4647698,-5.9542699,PPL,6295630|6255146|CI|95|2291962,Earth|Africa|Ivory Coast|GÃ´h-Djiboua|Bayota,2,1
+Haut Sassandra,.60792989,.24682723,27,2292048,1,BassaraguhÃ©,6.67274,-6.8477898,PPL,6295630|6255146|CI|96|2292048,Earth|Africa|Ivory Coast|Sassandra-MarahouÃ©|BassaraguhÃ©,2,1
+Lacs,.49174505,.26178682,27,2279754,3,DÃ©partement de Yamoussoukro,6.8333302,-5.25,ADM3,6295630|6255146|CI|81|11153154|2279754,Earth|Africa|Ivory Coast|Lacs|BÃ©lier|DÃ©partement de Yamoussoukro,1,1
+Lagunes,.70498872,.19046557,27,2596884,1,Boussoukro,5.8839798,-4.6950698,PPL,6295630|6255146|CI|82|2596884,Earth|Africa|Ivory Coast|Lagunes|Boussoukro,2,1
+Marahoue,.51782852,.23459753,27,2290961,3,Sous-prÃ©fecture de BouaflÃ©,6.9334402,-5.7258801,ADM4,6295630|6255146|CI|96|2290961,Earth|Africa|Ivory Coast|Sassandra-MarahouÃ©|Sous-prÃ©fecture de BouaflÃ©,1,1
+Montagnes,.52655923,.15137193,27,2284719,1,Mahapleu,7.22474,-7.93118,PPL,6295630|6255146|CI|78|2284719,Earth|Africa|Ivory Coast|Montagnes|Mahapleu,2,1
+Moyen Cavally,.60178363,.14244312,27,2289549,1,DuekouÃ©,6.7420201,-7.3491802,PPLA2,6295630|6255146|CI|78|2289549,Earth|Africa|Ivory Coast|Montagnes|DuekouÃ©,2,1
+Moyen Comoe,.62185842,.24227387,27,2279824,1,Yaobabikro,6.8965602,-3.3228099,PPL,6295630|6255146|CI|94|2279824,Earth|Africa|Ivory Coast|ComoÃ©|Yaobabikro,2,1
+N’Zi Comoe,.56882769,.28411493,27,2279438,1,Zanzansso,7.37356,-3.87782,PPL,6295630|6255146|CI|81|2279438,Earth|Africa|Ivory Coast|Lacs|Zanzansso,2,1
+Savanes,.21160403,.66776395,27,2283456,1,NiellÃ©,10.19814,-5.6233702,PPL,6295630|6255146|CI|87|2283456,Earth|Africa|Ivory Coast|Savanes|NiellÃ©,2,1
+Sud Bandama,.62010854,.28514042,27,2285449,1,Lakota,5.8475199,-5.6820002,PPLA3,6295630|6255146|CI|95|11153153|2285449,Earth|Africa|Ivory Coast|GÃ´h-Djiboua|LÃ´h-Djiboua|Lakota,2,1
+Sud Comoe,.71051532,.16083811,27,2293506,3,DÃ©partement dâAboisso,5.625,-3.15417,ADM3,6295630|6255146|CI|94|11153079|2293506,Earth|Africa|Ivory Coast|ComoÃ©|Sud-ComoÃ©|DÃ©partement dâAboisso,1,1
+Vallee du Bandama,.42329416,.39360917,27,2293067,1,Allomanou Ahagnino,7.9682698,-4.8375101,PPL,6295630|6255146|CI|90|2293067,Earth|Africa|Ivory Coast|VallÃ©e du Bandama|Allomanou Ahagnino,2,1
+Ville d’Abidjan,.57038343,.40813541,27,11205730,1,Sicogi,5.2834802,-3.9709799,PPLX,6295630|6255146|CI|11205730,Earth|Africa|Ivory Coast|Sicogi,2,1
+Worodougou,.27540541,.72459459,27,2280687,3,Sous-prÃ©fecture de TiÃ©ningbouÃ©,8.1442604,-5.8393202,ADM4,6295630|6255146|CI|97|2280687,Earth|Africa|Ivory Coast|Woroba|Sous-prÃ©fecture de TiÃ©ningbouÃ©,1,1
+Zanzan,.70744228,.25196314,27,2292979,1,Amanvi,7.9697199,-3.13889,PPL,6295630|6255146|CI|92|2292979,Earth|Africa|Ivory Coast|Zanzan|Amanvi,2,1
+Conakry,.076034658,.92396533,28,2419495,1,KipÃ©,9.6000004,-13.65,PPL,6295630|6255146|GN|04|2419495,Earth|Africa|Guinea|Conakry Region|KipÃ©,2,1
+Boké,.018676355,.98132366,28,2420884,1,Fria,10.36676,-13.58253,PPLA2,6295630|6255146|GN|B|2420883|2420884,Earth|Africa|Guinea|Boke Region|Fria|Fria,2,1
+Kindia,0,1,28,2422457,1,Coyah,9.7064304,-13.38465,PPLA2,6295630|6255146|GN|D|2595299|2422457,Earth|Africa|Guinea|Kindia|Coyah|Coyah,2,1
+Mamou,0,1,28,2422067,1,Diandian,10.25,-11.71667,PPL,6295630|6255146|GN|M|2417831|2422067,Earth|Africa|Guinea|Mamou Region|Mamou Prefecture|Diandian,2,1
+Labé,0,.99106234,28,2418362,1,LabÃ©,11.31823,-12.28332,PPLA2,6295630|6255146|GN|L|2418360|2418362,Earth|Africa|Guinea|LabÃ© Region|Labe Prefecture|LabÃ©,2,1
+Faranah,.13528673,.86471325,28,2421902,3,Dinguiraye Prefecture,11.545,-10.675,ADM2,6295630|6255146|GN|F|2421902,Earth|Africa|Guinea|Faranah|Dinguiraye Prefecture,1,1
+Kankan,0,1,28,11238551,3,Kankan Centre,10.33865,-9.26336,ADM3,6295630|6255146|GN|K|2419991|11238551,Earth|Africa|Guinea|Kankan Region|Kankan Prefecture|Kankan Centre,1,1
+N’Zérékoré,.46677026,.44545344,28,2421509,1,Faboridougou,8.3500004,-8.4499998,PPL,6295630|6255146|GN|N|2423124|2421509,Earth|Africa|Guinea|Nzerekore Region|Beyla Prefecture|Faboridougou,2,1
+Hhohho,.90436029,0,30,11127718,1,Mpolonjeni,-26.55497,31.869011,PPL,6295630|6255146|SZ|02|11127718,Earth|Africa|Swaziland|Lubombo District|Mpolonjeni,2,1
+Manzini,.91366351,0,30,11128352,3,Ludzeludze Inkhundla,-26.397079,31.314091,ADM2,6295630|6255146|SZ|03|11128352,Earth|Africa|Swaziland|Manzini District|Ludzeludze Inkhundla,1,1
+Shiselweni,.94372612,0,30,11127725,3,Ngudzeni,-27.03583,31.551109,ADM2,6295630|6255146|SZ|04|11127725,Earth|Africa|Swaziland|Shiselweni District|Ngudzeni,1,1
+Lubombo,.91103256,0,30,935040,1,Lubuli,-27.01667,31.9,PPL,6295630|6255146|SZ|00,Earth|Africa|Swaziland|Lubuli,2,1
+Adrar,0,1,31,2477145,3,DaÃ¯ra de TÃ©nÃ¨s,36.416672,1.25,ADM2,6295630|6255146|DZ|41|2477145,Earth|Africa|Algeria|Chlef|DaÃ¯ra de TÃ©nÃ¨s,1,1
+Chlef,0,1,31,2508287,1,AÃ¯n BeÃ¯da,35.796391,7.3927798,PPL,6295630|6255146|DZ|29|2508287,Earth|Africa|Algeria|Oum el Bouaghi|AÃ¯n BeÃ¯da,2,1
+Laghouat,0,1,31,2485624,1,Oued el Ma,35.645248,5.9960499,PPL,6295630|6255146|DZ|03|2485624,Earth|Africa|Algeria|Batna|Oued el Ma,2,1
+Oum el-Bouaghi,0,1,31,2507413,1,Aliouene,36.614262,5.2456799,PPL,6295630|6255146|DZ|18|2507413,Earth|Africa|Algeria|BÃ©jaÃ¯a|Aliouene,2,1
+Batna,0,1,31,2503826,1,Biskra,34.85038,5.7280502,PPLA,6295630|6255146|DZ|19|2503826,Earth|Africa|Algeria|Biskra|Biskra,2,1
+Bejaia,0,1,31,2504622,1,Beni Mered,36.523891,2.86131,PPL,6295630|6255146|DZ|20|2504622,Earth|Africa|Algeria|Blida|Beni Mered,2,1
+Biskra,0,1,31,11205098,1,Aghbalou,36.4212,4.3547001,PPL,6295630|6255146|DZ|21|11205098,Earth|Africa|Algeria|Bouira|Aghbalou,2,1
+Bechar,0,1,31,2477461,1,TÃ©bessa,35.404171,8.1241703,PPLA,6295630|6255146|DZ|33|2477461,Earth|Africa|Algeria|TÃ©bessa|TÃ©bessa,2,1
+Blida,0,1,31,2508225,1,âAÃ¯n Deheb,34.842178,1.54697,PPL,6295630|6255146|DZ|13|2508225,Earth|Africa|Algeria|Tiaret|âAÃ¯n Deheb,2,1
+Bouria,0,1,31,11204924,3,Akbil,36.504532,4.2789402,ADM3,6295630|6255146|DZ|14|11204924,Earth|Africa|Algeria|Tizi Ouzou|Akbil,1,1
+Tamanghasset,0,1,31,2503847,1,Birkhadem,36.714989,3.05002,PPL,6295630|6255146|DZ|01|2503847,Earth|Africa|Algeria|Algiers|Birkhadem,2,1
+Tebessa,0,1,31,2500017,1,Djelfa,34.672791,3.263,PPLA,6295630|6255146|DZ|22|2500017,Earth|Africa|Algeria|Djelfa|Djelfa,2,1
+Tlemcen,0,1,31,2492913,1,Jijel,36.820549,5.7667098,PPLA,6295630|6255146|DZ|24|2492913,Earth|Africa|Algeria|Jijel|Jijel,2,1
+Tiaret,0,1,31,2507978,3,AÃ¯n Oulmene,35.916672,5.3000002,ADM2,6295630|6255146|DZ|12|2507978,Earth|Africa|Algeria|SÃ©tif|AÃ¯n Oulmene,1,1
+Tizi Ouzou,0,1,31,2589581,6,Algeria,28,3,PCLI,6295630|6255146|DZ,Earth|Africa|Algeria,1,1
+Algeris,0,1,31,2505914,4,Commune dâAzzaba,36.73333,7.0999999,ADMD,6295630|6255146|DZ|31|2505914,Earth|Africa|Algeria|Skikda|Commune dâAzzaba,1,1
+Djelfa,0,1,31,2504950,1,Ben Badis,34.952339,-.91609001,PPL,6295630|6255146|DZ|30|2504950,Earth|Africa|Algeria|Sidi Bel AbbÃ¨s|Ben Badis,2,1
+Jijel,0,1,31,2506999,1,Annaba,36.900002,7.7666702,PPLA,6295630|6255146|DZ|37|2506999,Earth|Africa|Algeria|Annaba|Annaba,2,1
+Setif,0,1,31,2495662,1,Guelma,36.462139,7.4260802,PPLA,6295630|6255146|DZ|23|2495662,Earth|Africa|Algeria|Guelma|Guelma,2,1
+Saida,0,1,31,2494610,1,Hamma Bouziane,36.412048,6.5960302,PPL,6295630|6255146|DZ|04|2494610,Earth|Africa|Algeria|Constantine|Hamma Bouziane,2,1
+Skikda,0,1,31,2589581,6,Algeria,28,3,PCLI,6295630|6255146|DZ,Earth|Africa|Algeria,1,1
+Sidi Bel Abbes,0,1,31,2481196,1,Sidi Ali,36.097321,.42221999,PPL,6295630|6255146|DZ|07|2481196,Earth|Africa|Algeria|Mostaganem|Sidi Ali,2,1
+Annaba,0,1,31,2504175,1,Berhoum,35.654549,5.0338602,PPL,6295630|6255146|DZ|27|2504175,Earth|Africa|Algeria|M'Sila|Berhoum,2,1
+Guelma,0,1,31,2490098,1,Mascara,35.396641,.14026999,PPLA,6295630|6255146|DZ|26|2490098,Earth|Africa|Algeria|Mascara|Mascara,2,1
+Constantine,0,1,31,2482886,1,Rouissat,31.924271,5.3501801,PPL,6295630|6255146|DZ|50|2482886,Earth|Africa|Algeria|Ouargla|Rouissat,2,1
+Medea,0,1,31,2508174,1,AÃ¯n el Bya,35.80389,-.30177999,PPL,6295630|6255146|DZ|09|2508174,Earth|Africa|Algeria|Oran|AÃ¯n el Bya,2,1
+Mostaganem,0,.98040897,31,2503701,1,Bordj Bou Arreridj,36.073212,4.7610798,PPLA,6295630|6255146|DZ|39|2503701,Earth|Africa|Algeria|Bordj Bou ArrÃ©ridj|Bordj Bou Arreridj,2,1
+M’Sila,0,1,31,2474633,1,Zemmouri,36.785278,3.60361,PPL,6295630|6255146|DZ|40|2474633,Earth|Africa|Algeria|Boumerdes|Zemmouri,2,1
+Mascara,0,1,31,2497988,1,El Kala,36.895561,8.4433298,PPL,6295630|6255146|DZ|44|2497988,Earth|Africa|Algeria|El Tarf|El Kala,2,1
+Ouargla,0,1,31,2500282,1,Djamaa,33.533878,5.9930601,PPL,6295630|6255146|DZ|50|2500282,Earth|Africa|Algeria|Ouargla|Djamaa,2,1
+Oran,0,1,31,2479215,1,Souk Ahras,36.286388,7.9511099,PPLA,6295630|6255146|DZ|52|2479215,Earth|Africa|Algeria|Souk Ahras|Souk Ahras,2,1
+El Bayadh,0,1,31,2491578,1,Kolea,36.638882,2.76845,PPL,6295630|6255146|DZ|55|2491578,Earth|Africa|Algeria|Tipaza|Kolea,2,1
+Illizi,0,1,31,2507892,1,AÃ¯n Tinn,36.397541,6.3240099,PPL,6295630|6255146|DZ|48|2507892,Earth|Africa|Algeria|Mila|AÃ¯n Tinn,2,1
+Bordj Bou Arreridj,0,1,31,2491911,1,Khemis Miliana,36.26104,2.22015,PPL,6295630|6255146|DZ|35|2491911,Earth|Africa|Algeria|AÃ¯n Defla|Khemis Miliana,2,1
+Boumerdes,0,0,31,2496045,4,Ghardaia,31.08333,3.1666701,ADM1,6295630|6255146|DZ|45,Earth|Africa|Algeria|Ghardaia,1,2
+El Tarf,0,1,31,2485004,4,Commune dâOuled Aych,35.833328,1,ADMD,6295630|6255146|DZ|51|2485004,Earth|Africa|Algeria|Relizane|Commune dâOuled Aych,1,1
+Cairo,.097452588,.90254742,32,7911441,1,á¸¨adÄâiq az ZaytÅ«n,30.107519,31.31773,PPLX,6295630|6255146|EG|11|360630|7911441,Earth|Africa|Egypt|Cairo|Cairo|á¸¨adÄâiq az ZaytÅ«n,2,1
+Alexandria,.1132439,.88675612,32,357994,6,Egypt,27,30,PCLI,6295630|6255146|EG,Earth|Africa|Egypt,1,1
+Suez,.1,.89999998,32,357994,6,Egypt,27,30,PCLI,6295630|6255146|EG,Earth|Africa|Egypt,1,1
+Damietta,.1,.89999998,32,419435,1,Az ZarqÄ,31.208639,31.635281,PPL,6295630|6255146|EG|20|419435,Earth|Africa|Egypt|Damietta|Az ZarqÄ,2,1
+Dakahlia,.01449883,.98550117,32,347590,4,Markaz Å¢alkhÄ,31.085091,31.351999,ADMD,6295630|6255146|EG|01|347590,Earth|Africa|Egypt|Dakahlia|Markaz Å¢alkhÄ,1,1
+Al-Sharqia,0,1,32,362612,3,Markaz AbÅ« á¸¨ammÄd,30.526501,31.685591,ADM2,6295630|6255146|EG|14|362612,Earth|Africa|Egypt|Sharqia|Markaz AbÅ« á¸¨ammÄd,1,1
+Qalyubia,.067371629,.93262839,32,360615,1,Al QanÄÅ£ir al KhayrÄ«yah,30.19327,31.13703,PPL,6295630|6255146|EG|12|360615,Earth|Africa|Egypt|Qalyubia|Al QanÄÅ£ir al KhayrÄ«yah,2,1
+Kafr el-Sheikh,.1,.89999998,32,354247,1,Kafr IbrÄhÄ«m,31.1133,30.663,PPL,6295630|6255146|EG|21|354247,Earth|Africa|Egypt|Kafr el-Sheikh|Kafr IbrÄhÄ«m,2,1
+Gharbia,0,1,32,354365,1,Kafr az ZayyÄt,30.8248,30.81805,PPL,6295630|6255146|EG|05|354365,Earth|Africa|Egypt|Gharbia|Kafr az ZayyÄt,2,1
+Monufia,.081889853,.91811013,32,432825,1,Subk al Aá¸©ad,30.30607,31.029409,PPL,6295630|6255146|EG|09|432825,Earth|Africa|Egypt|Monufia|Subk al Aá¸©ad,2,1
+Beheira,.10914432,.89085567,32,356000,1,á¸¨awsh âÄªsÃ¡,30.9128,30.29019,PPL,6295630|6255146|EG|03|356000,Earth|Africa|Egypt|Beheira|á¸¨awsh âÄªsÃ¡,2,1
+Ismailia,0,1,32,361056,4,Ismailia,30.6,32.400002,ADM1,6295630|6255146|EG|07,Earth|Africa|Egypt|Ismailia,1,1
+Giza,.018712686,.9812873,32,359074,1,Barnasht,29.683331,31.25,PPL,6295630|6255146|EG|08|359074,Earth|Africa|Egypt|Giza|Barnasht,2,1
+Beni Suef,0,1,32,8559274,3,Markaz Minyat An NaÅr,31.170811,31.725531,ADM2,6295630|6255146|EG|01|8559274,Earth|Africa|Egypt|Dakahlia|Markaz Minyat An NaÅr,1,1
+Faiyum,.061758451,.93824154,32,357994,6,Egypt,27,30,PCLI,6295630|6255146|EG,Earth|Africa|Egypt,1,1
+Minya,.12412966,.87587035,32,360688,4,Minya,28.1,30,ADM1,6295630|6255146|EG|10,Earth|Africa|Egypt|Minya,1,1
+Asyut,.1714271,.82857293,32,352912,4,Markaz ManfalÅ«Å£,27.33333,30.83333,ADMD,6295630|6255146|EG|17|352912,Earth|Africa|Egypt|Asyut|Markaz ManfalÅ«Å£,1,1
+Sohag,.18477003,.81522995,32,360748,1,Al MarÄghah,26.699341,31.605089,PPL,6295630|6255146|EG|24|360748,Earth|Africa|Egypt|Sohag|Al MarÄghah,2,1
+Qena,.13867466,.86132532,32,358115,1,DishnÄ,26.12467,32.475979,PPL,6295630|6255146|EG|23|358115,Earth|Africa|Egypt|Qena|DishnÄ,2,1
+Luxor,.1,.89999998,32,9073427,1,Al BaghdÄdÄ«,25.63596,32.607208,PPL,6295630|6255146|EG|28|9073427,Earth|Africa|Egypt|Luxor|Al BaghdÄdÄ«,2,1
+Red Sea,0,1,32,355635,1,Edfu,24.97916,32.87722,PPL,6295630|6255146|EG|16|355635,Earth|Africa|Egypt|Aswan|Edfu,2,1
+Al Bahr al Ahmar,.1,.89999998,32,358620,1,Port Safaga,26.729179,33.936508,PPL,6295630|6255146|EG|02|358620,Earth|Africa|Egypt|Red Sea|Port Safaga,2,1
+Chaouia-Ouardigha,0,1,33,2556272,1,Berrechid,33.26553,-7.5875401,PPLA3,6295630|6255146|MA|06|2537405|6546705|2556272,Earth|Africa|Morocco|Casablanca-Settat|Settat Province|Berrechid|Berrechid,2,1
+Doukkala-Abda,0,1,33,2536074,1,Sidi Bennour,32.652359,-8.4276896,PPLA3,6295630|6255146|MA|06|2550076|6546787|2536074,Earth|Africa|Morocco|Casablanca-Settat|El-Jadida|Sidi Bennour|Sidi Bennour,2,1
+Fes-Boulemane,0,1,33,6546034,3,Zouagha,34.009472,-5.0427198,ADM3,6295630|6255146|MA|03|6547300|6546034,Earth|Africa|Morocco|FÃ¨s-MeknÃ¨s|Fes|Zouagha,1,1
+Gharb-Charda-Beni Hssen,0,1,33,2532423,1,Souk Tlet El Gharb,34.621052,-6.1342602,PPL,6295630|6255146|MA|52,Earth|Africa|Morocco|Souk Tlet El Gharb,2,1
+Grand Casablanca,0,1,33,6545963,3,Ain-Sebaa,33.629429,-7.4991298,ADM3,6295630|6255146|MA|06|6547294|6545963,Earth|Africa|Morocco|Casablanca-Settat|Casablanca|Ain-Sebaa,1,1
+Guelmim-Es Semara,0,1,33,6546501,3,Guelmim,28.986349,-10.06345,ADM3,6295630|6255146|MA|10|2548525|6546501,Earth|Africa|Morocco|Guelmim-Oued Noun|Guelmim|Guelmim,1,1
+Laayoune-Boujdour-Sakia El Hamra,0,1,33,2529923,1,Tarfaya,27.939199,-12.92604,PPL,6295630|6255146|MA|59,Earth|Africa|Morocco|Tarfaya,2,1
+Marrakech-Tensift-El Haouz,.006909579,.99309045,33,2526924,1,Touama,31.535009,-7.4929099,PPLA3,6295630|6255146|MA|07|6547292|6545771|2526924,Earth|Africa|Morocco|Marrakesh-Safi|Al-Haouz|Touama|Touama,2,1
+Meknes-Tafilalet,0,.96651083,33,2542715,1,Meknes,33.89352,-5.5472698,PPLA2,6295630|6255146|MA|03|6547283|6546578|2542715,Earth|Africa|Morocco|FÃ¨s-MeknÃ¨s|Meknes|Meknes|Meknes,2,1
+Oriental,0,1,33,6546162,3,Aklim,34.882061,-2.5294299,ADM3,6295630|6255146|MA|02|6547287|6546162,Earth|Africa|Morocco|Oriental|Berkane|Aklim,1,1
+Oued Ed-Dahab-Lagouira,0,1,33,6546233,3,El Argoub,23.710079,-15.26972,ADM3,6295630|6255146|MA|12|6547298|6546233,Earth|Africa|Morocco|Dakhla-Oued Ed-Dahab|Oued-Ed-Dahab|El Argoub,1,1
+Rabat-Sale-Zemmour-Zaer,0,1,33,6546340,3,Bab Lamrissa,34.05991,-6.8104801,ADM3,6295630|6255146|MA|04|2537762|6546340,Earth|Africa|Morocco|Rabat-SalÃ©-KÃ©nitra|Sale|Bab Lamrissa,1,1
+Souss-Massa-Draa,0,1,33,2527089,1,Tiznit,29.69742,-9.7316198,PPLA3,6295630|6255146|MA|09|2527087|6547047|2527089,Earth|Africa|Morocco|Souss-Massa|Tiznit Province|Tiznit|Tiznit,2,1
+Tadla-Azilal,0,1,33,2532412,1,Souq Sebt Oulad Nemma,32.297298,-6.7030101,PPL,6295630|6255146|MA|05|2532412,Earth|Africa|Morocco|BÃ©ni Mellal-KhÃ©nifra|Souq Sebt Oulad Nemma,2,1
+Tangier-Tetouan,0,.98946118,33,2544001,1,Ksar El Kebir,35.000439,-5.90378,PPL,6295630|6255146|MA|01|2543546|2544001,Earth|Africa|Morocco|Tanger-Tetouan-Al Hoceima|Larache|Ksar El Kebir,2,1
+Taza-Al Hoceima-Taounate,0,1,33,2548489,1,Guercif,34.225681,-3.35361,PPLA3,6295630|6255146|MA|03|2529313|6547086|2548489,Earth|Africa|Morocco|FÃ¨s-MeknÃ¨s|Taza|Guercif|Guercif,2,1
+North,0,1,34,380186,1,Ad Dabbah,18.049999,30.950001,PPL,6295630|6255146|SD|43|380186,Earth|Africa|Sudan|Northern State|Ad Dabbah,2,1
+Nahr ALnil,0,1,34,367308,1,Shendi,16.6915,33.434101,PPL,6295630|6255146|SD|53|367308,Earth|Africa|Sudan|River Nile State|Shendi,2,1
+Red Sea,0,1,34,408646,4,Red Sea,19.966669,35.666672,ADM1,6295630|6255146|SD|36,Earth|Africa|Sudan|Red Sea,1,1
+Kassala,0,1,34,372753,1,Kassala,15.45099,36.399979,PPLA,6295630|6255146|SD|52|372753,Earth|Africa|Sudan|Kassala|Kassala,2,1
+Gadarif,0,1,34,379062,1,Gedaref,14.03493,35.383438,PPLA,6295630|6255146|SD|39|379062,Earth|Africa|Sudan|Al Qaá¸Ärif|Gedaref,2,1
+Khartom,.0043181819,.99568182,34,6992533,1,Al Manshiya,15.5911,32.575901,PPL,6295630|6255146|SD|29|6992533,Earth|Africa|Sudan|Khartoum|Al Manshiya,2,1
+Gezira,0,1,34,364103,1,Wad Madani,14.40118,33.51989,PPLA,6295630|6255146|SD|38|364103,Earth|Africa|Sudan|Al JazÄ«rah|Wad Madani,2,1
+White Nile,0,1,34,11287139,1,Block 47,15.53902,32.565281,PPL,6295630|6255146|SD|29|11287139,Earth|Africa|Sudan|Khartoum|Block 47,2,1
+Sennar,0,.99099612,34,366847,1,Singa,13.1483,33.931171,PPLA,6295630|6255146|SD|58|366847,Earth|Africa|Sudan|SinnÄr|Singa,2,1
+Blue Nile,0,1,34,408654,4,Blue Nile,11.15,34.099998,ADM1,6295630|6255146|SD|42,Earth|Africa|Sudan|Blue Nile,1,1
+South Kordufan,0,1,34,408661,4,Southern Kordofan,11.26667,30.83333,ADM1,6295630|6255146|SD|50,Earth|Africa|Sudan|Southern Kordofan,1,1
+North Kordufan,0,1,34,8051146,3,Sheikan,13.13,30.08,ADM2,6295630|6255146|SD|56|8051146,Earth|Africa|Sudan|North Kordofan|Sheikan,1,1
+North Darfur,0,1,34,379555,1,Al-Fashir,13.62793,25.34936,PPLA,6295630|6255146|SD|55|379555,Earth|Africa|Sudan|Northern Darfur|Al-Fashir,2,1
+West Darfur,0,1,34,379303,1,Geneina,13.45262,22.44725,PPLA,6295630|6255146|SD|47|379303,Earth|Africa|Sudan|Western Darfur|Geneina,2,1
+South Darfur,.0078616198,.98371524,34,369004,1,Nyala,12.04888,24.88069,PPLA,6295630|6255146|SD|49|369004,Earth|Africa|Sudan|Southern Darfur|Nyala,2,1
+Tunis,0,1,35,2464465,3,DÃ©lÃ©gation de la MÃ©dina,36.796989,10.16946,ADM2,6295630|6255146|TN|36|2464465,Earth|Africa|Tunisia|Gouvernorat de Tunis|DÃ©lÃ©gation de la MÃ©dina,1,1
+Ariana,0,1,35,11109020,3,Ariana Ville,36.865421,10.16846,ADM2,6295630|6255146|TN|38|11109020,Earth|Africa|Tunisia|Gouvernorat de lâAriana|Ariana Ville,1,1
+Ben Arous,0,1,35,11109018,3,DÃ©lÃ©gation de MÃ©grine,36.77314,10.23005,ADM2,6295630|6255146|TN|27|11109018,Earth|Africa|Tunisia|Gouvernorat de Ben Arous|DÃ©lÃ©gation de MÃ©grine,1,1
+Manouba,0,1,35,11256911,2,Menzel Habib,36.674011,9.8575802,PPLL,6295630|6255146|TN|38|11256911,Earth|Africa|Tunisia|Gouvernorat de lâAriana|Menzel Habib,2,1
+Nabeul,0,1,35,2467898,1,Grombalia,36.598942,10.50032,PPL,6295630|6255146|TN|19|2467898,Earth|Africa|Tunisia|Gouvernorat de Nabeul|Grombalia,2,1
+Zaghouan,0,1,35,11108354,3,Saouaf,36.207932,10.1413,ADM2,6295630|6255146|TN|37|11108354,Earth|Africa|Tunisia|Gouvernorat de Zaghouan|Saouaf,1,1
+Bizerte,0,1,35,11108361,3,Ghar El Melh,37.17091,10.10401,ADM2,6295630|6255146|TN|18|11108361,Earth|Africa|Tunisia|Gouvernorat de Bizerte|Ghar El Melh,1,1
+Beja,0,1,35,7870605,3,Beja Sud,36.642551,9.2085199,ADM2,6295630|6255146|TN|17|7870605,Earth|Africa|Tunisia|Gouvernorat de BÃ©ja|Beja Sud,1,1
+Jendouba,0,1,35,2470085,4,Gouvernorat de Jendouba,36.666672,8.75,ADM1,6295630|6255146|TN|06,Earth|Africa|Tunisia|Gouvernorat de Jendouba,1,1
+Le Kef,0,1,35,7870612,3,Kef Quest,36.149071,8.65903,ADM2,6295630|6255146|TN|14|7870612,Earth|Africa|Tunisia|Gouvernorat de Kef|Kef Quest,1,1
+Siliana,0,1,35,7870035,1,Rouhia,35.697781,9.1456099,PPL,6295630|6255146|TN|22|7870035,Earth|Africa|Tunisia|Gouvernorat de Siliana|Rouhia,2,1
+Sousse,0,1,35,11104944,3,Sousse Sidi Abdelhamid,35.805328,10.6407,ADM2,6295630|6255146|TN|23|11104944,Earth|Africa|Tunisia|Gouvernorat de Sousse|Sousse Sidi Abdelhamid,1,1
+Monastir,0,1,35,2466294,1,Sidi Ameur,35.75,10.7,PPL,6295630|6255146|TN|16|2466294,Earth|Africa|Tunisia|Gouvernorat de Monastir|Sidi Ameur,2,1
+Mahdia,0,1,35,7870311,3,Chebba,35.238949,11.05567,ADM2,6295630|6255146|TN|15|7870311,Earth|Africa|Tunisia|Gouvernorat de Mahdia|Chebba,1,1
+Sfax,0,1,35,2472378,4,MuâtamadÄ«yat Biâr âAlÄ« Bin KhalÄ«fah,34.666672,10,ADMD,6295630|6255146|TN|32|2472378,Earth|Africa|Tunisia|Gouvernorat de Sfax|MuâtamadÄ«yat Biâr âAlÄ« Bin KhalÄ«fah,1,1
+Kairouan,0,1,35,11205517,3,El Ghabet,35.735889,10.15939,ADM3,6295630|6255146|TN|03|11205517,Earth|Africa|Tunisia|Gouvernorat de Kairouan|El Ghabet,1,1
+Kasserine,0,1,35,2471059,1,Feriana,34.94529,8.5678902,PPL,6295630|6255146|TN|02|2471059,Earth|Africa|Tunisia|Gouvernorat de Kasserine|Feriana,2,1
+Sidi Bouzid,0,1,35,2465836,3,Sidi Bouzid Ouest,35.005779,9.4107199,ADM2,6295630|6255146|TN|33|2465836,Earth|Africa|Tunisia|Gouvernorat de Sidi Bouzid|Sidi Bouzid Ouest,1,1
+Gabes,0,1,35,2473747,1,El Hamma,33.891521,9.7962904,PPL,6295630|6255146|TN|29|2473747,Earth|Africa|Tunisia|Gouvernorat de GabÃ¨s|El Hamma,2,1
+Mednine,0,1,35,2473937,1,Ajim,33.726379,10.75664,PPL,6295630|6255146|TN|28|2473937,Earth|Africa|Tunisia|Gouvernorat de MÃ©denine|Ajim,2,1
+Tataouine,0,1,35,11105088,3,Bir Lahmar,33.147812,10.46053,ADM2,6295630|6255146|TN|34|11105088,Earth|Africa|Tunisia|Tataouine|Bir Lahmar,1,1
+Gafsa,0,1,35,2473454,1,El Guetar,34.336281,8.9496403,PPL,6295630|6255146|TN|30|2473454,Earth|Africa|Tunisia|Gafsa|El Guetar,2,1
+Tozeur,0,1,35,11106377,3,Tamaghza,34.264702,7.8848801,ADM2,6295630|6255146|TN|35|11106377,Earth|Africa|Tunisia|Gouvernorat de Tozeur|Tamaghza,1,1
+Kebili,0,1,35,11238064,1,Bou Abdallah,33.716,8.8999996,PPL,6295630|6255146|TN|31|11238064,Earth|Africa|Tunisia|Gouvernorat de KÃ©bili|Bou Abdallah,2,1

@@ -1,0 +1,337 @@
+ID;Location_Name;Religion;Day;Time;Gender;Age_Group;Reach;Total_Poll_Responses;Yes_Counts;No_Counts
+120214331500540382;Kipé;Muslim;Sun;After;Female;(50, 65);0;0;0;0
+120214331499330382;Kipé;Muslim;Sun;After;Female;(25, 49);215;1;1;0
+120214331497860382;Kipé;Muslim;Sun;After;Female;(18, 24);0;0;0;0
+120214331497170382;Kipé;Muslim;Fri;After;Female;(50, 65);0;0;0;0
+120214331495840382;Kipé;Muslim;Fri;After;Female;(25, 49);0;0;0;0
+120214331494540382;Kipé;Muslim;Fri;After;Female;(18, 24);0;0;0;0
+120214331493420382;Kipé;Muslim;Tue;After;Female;(50, 65);0;0;0;0
+120214331491090382;Kipé;Muslim;Tue;After;Female;(25, 49);0;0;0;0
+120214331490500382;Kipé;Muslim;Tue;After;Female;(18, 24);184;1;1;0
+120214331489010382;Kipé;Muslim;Sun;Before;Female;(50, 65);0;0;0;0
+120214331487980382;Kipé;Muslim;Sun;Before;Female;(25, 49);0;0;0;0
+120214331487120382;Kipé;Muslim;Sun;Before;Female;(18, 24);114;1;1;0
+120214331485950382;Kipé;Muslim;Fri;Before;Female;(50, 65);0;0;0;0
+120214331482950382;Kipé;Muslim;Fri;Before;Female;(25, 49);0;0;0;0
+120214331477570382;Kipé;Muslim;Fri;Before;Female;(18, 24);101;1;1;0
+120214331476340382;Kipé;Muslim;Tue;Before;Female;(50, 65);0;0;0;0
+120214331474950382;Kipé;Muslim;Tue;Before;Female;(25, 49);324;2;0;2
+120214331472060382;Kipé;Muslim;Tue;Before;Female;(18, 24);169;1;1;0
+120214331470600382;Kipé;Muslim;Sun;After;Male;(50, 65);0;0;0;0
+120214331470000382;Kipé;Muslim;Sun;After;Male;(25, 49);0;0;0;0
+120214331468550382;Kipé;Muslim;Sun;After;Male;(18, 24);204;1;1;0
+120214331467990382;Kipé;Muslim;Fri;After;Male;(50, 65);0;0;0;0
+120214331467010382;Kipé;Muslim;Fri;After;Male;(25, 49);209;3;3;0
+120214331465930382;Kipé;Muslim;Fri;After;Male;(18, 24);0;0;0;0
+120214331465570382;Kipé;Muslim;Tue;After;Male;(50, 65);0;0;0;0
+120214331464740382;Kipé;Muslim;Tue;After;Male;(25, 49);0;0;0;0
+120214331463610382;Kipé;Muslim;Tue;After;Male;(18, 24);0;0;0;0
+120214331461810382;Kipé;Muslim;Sun;Before;Male;(50, 65);0;0;0;0
+120214331459570382;Kipé;Muslim;Sun;Before;Male;(25, 49);222;2;2;0
+120214331458710382;Kipé;Muslim;Sun;Before;Male;(18, 24);159;2;2;0
+120214331457750382;Kipé;Muslim;Fri;Before;Male;(50, 65);0;0;0;0
+120214331456660382;Kipé;Muslim;Fri;Before;Male;(25, 49);207;1;1;0
+120214331454730382;Kipé;Muslim;Fri;Before;Male;(18, 24);0;0;0;0
+120214331453540382;Kipé;Muslim;Tue;Before;Male;(50, 65);0;0;0;0
+120214331452670382;Kipé;Muslim;Tue;Before;Male;(25, 49);0;0;0;0
+120214331449120382;Kipé;Muslim;Tue;Before;Male;(18, 24);266;2;1;1
+120214331575900382;Windhoek;Christian;Sun;After;Female;(50, 65);0;0;0;0
+120214331574760382;Windhoek;Christian;Sun;After;Female;(25, 49);4,041;16;9;7
+120214331573270382;Windhoek;Christian;Sun;After;Female;(18, 24);4,873;7;5;2
+120214331572420382;Windhoek;Christian;Fri;After;Female;(50, 65);349;1;1;0
+120214331570020382;Windhoek;Christian;Fri;After;Female;(25, 49);3,670;15;11;4
+120214331560840382;Windhoek;Christian;Fri;After;Female;(18, 24);4,395;15;8;7
+120214331554950382;Windhoek;Christian;Tue;After;Female;(50, 65);546;3;1;2
+120214331554330382;Windhoek;Christian;Tue;After;Female;(25, 49);7,536;24;16;8
+120214331553210382;Windhoek;Christian;Tue;After;Female;(18, 24);6,703;20;11;9
+120214331552420382;Windhoek;Christian;Sun;Before;Female;(50, 65);420;1;1;0
+120214331549510382;Windhoek;Christian;Sun;Before;Female;(25, 49);4,052;20;17;3
+120214331547180382;Windhoek;Christian;Sun;Before;Female;(18, 24);4,422;10;8;2
+120214331544370382;Windhoek;Christian;Fri;Before;Female;(50, 65);475;3;2;1
+120214331542140382;Windhoek;Christian;Fri;Before;Female;(25, 49);4,293;10;5;5
+120214331541180382;Windhoek;Christian;Fri;Before;Female;(18, 24);5,034;21;15;6
+120214331540040382;Windhoek;Christian;Tue;Before;Female;(50, 65);802;4;2;2
+120214331539000382;Windhoek;Christian;Tue;Before;Female;(25, 49);5,954;9;7;2
+120214331535690382;Windhoek;Christian;Tue;Before;Female;(18, 24);8,324;31;18;13
+120214331534730382;Windhoek;Christian;Sun;After;Male;(50, 65);223;3;2;1
+120214331533260382;Windhoek;Christian;Sun;After;Male;(25, 49);1,870;9;6;3
+120214331530980382;Windhoek;Christian;Sun;After;Male;(18, 24);3,349;28;20;8
+120214331528860382;Windhoek;Christian;Fri;After;Male;(50, 65);168;2;1;1
+120214331527680382;Windhoek;Christian;Fri;After;Male;(25, 49);1,790;4;3;1
+120214331526400382;Windhoek;Christian;Fri;After;Male;(18, 24);2,848;28;18;10
+120214331524330382;Windhoek;Christian;Tue;After;Male;(50, 65);301;2;1;1
+120214331522040382;Windhoek;Christian;Tue;After;Male;(25, 49);2,521;12;6;6
+120214331520750382;Windhoek;Christian;Tue;After;Male;(18, 24);4,273;18;13;5
+120214331518690382;Windhoek;Christian;Sun;Before;Male;(50, 65);0;0;0;0
+120214331517370382;Windhoek;Christian;Sun;Before;Male;(25, 49);2,328;6;4;2
+120214331516170382;Windhoek;Christian;Sun;Before;Male;(18, 24);2,952;19;13;6
+120214331514490382;Windhoek;Christian;Fri;Before;Male;(50, 65);0;0;0;0
+120214331511850382;Windhoek;Christian;Fri;Before;Male;(25, 49);2,393;11;8;3
+120214331509320382;Windhoek;Christian;Fri;Before;Male;(18, 24);3,528;8;5;3
+120214331506230382;Windhoek;Christian;Tue;Before;Male;(50, 65);0;0;0;0
+120214331503760382;Windhoek;Christian;Tue;Before;Male;(25, 49);3,209;6;4;2
+120214331501510382;Windhoek;Christian;Tue;Before;Male;(18, 24);5,487;42;32;10
+120214331621540382;Birkhadem;Muslim;Sun;After;Female;(50, 65);2,490;16;6;10
+120214331620660382;Birkhadem;Muslim;Sun;After;Female;(25, 49);21,354;164;89;75
+120214331619880382;Birkhadem;Muslim;Sun;After;Female;(18, 24);32,027;218;95;123
+120214331618810382;Birkhadem;Muslim;Fri;After;Female;(50, 65);2,920;27;14;13
+120214331618080382;Birkhadem;Muslim;Fri;After;Female;(25, 49);25,803;165;93;72
+120214331617010382;Birkhadem;Muslim;Fri;After;Female;(18, 24);36,371;291;153;138
+120214331616390382;Birkhadem;Muslim;Tue;After;Female;(50, 65);3,917;48;23;25
+120214331615260382;Birkhadem;Muslim;Tue;After;Female;(25, 49);30,321;180;91;89
+120214331614350382;Birkhadem;Muslim;Tue;After;Female;(18, 24);46,897;358;155;203
+120214331613750382;Birkhadem;Muslim;Sun;Before;Female;(50, 65);1,747;15;10;5
+120214331612670382;Birkhadem;Muslim;Sun;Before;Female;(25, 49);17,188;76;46;30
+120214331611680382;Birkhadem;Muslim;Sun;Before;Female;(18, 24);21,889;120;61;59
+120214331610570382;Birkhadem;Muslim;Fri;Before;Female;(50, 65);2,812;22;12;10
+120214331610070382;Birkhadem;Muslim;Fri;Before;Female;(25, 49);22,503;137;89;48
+120214331609150382;Birkhadem;Muslim;Fri;Before;Female;(18, 24);33,822;246;133;113
+120214331607740382;Birkhadem;Muslim;Tue;Before;Female;(50, 65);3,563;35;15;20
+120214331606940382;Birkhadem;Muslim;Tue;Before;Female;(25, 49);25,669;137;79;58
+120214331605800382;Birkhadem;Muslim;Tue;Before;Female;(18, 24);39,952;285;125;160
+120214331605100382;Birkhadem;Muslim;Sun;After;Male;(50, 65);1,660;22;10;12
+120214331603920382;Birkhadem;Muslim;Sun;After;Male;(25, 49);15,177;161;69;92
+120214331602850382;Birkhadem;Muslim;Sun;After;Male;(18, 24);25,666;346;161;185
+120214331601550382;Birkhadem;Muslim;Fri;After;Male;(50, 65);2,209;32;19;13
+120214331600200382;Birkhadem;Muslim;Fri;After;Male;(25, 49);18,525;187;97;90
+120214331598580382;Birkhadem;Muslim;Fri;After;Male;(18, 24);29,247;402;236;166
+120214331597540382;Birkhadem;Muslim;Tue;After;Male;(50, 65);3,087;46;22;24
+120214331595370382;Birkhadem;Muslim;Tue;After;Male;(25, 49);22,336;213;96;117
+120214331594120382;Birkhadem;Muslim;Tue;After;Male;(18, 24);35,941;441;188;253
+120214331592590382;Birkhadem;Muslim;Sun;Before;Male;(50, 65);1,324;15;6;9
+120214331591530382;Birkhadem;Muslim;Sun;Before;Male;(25, 49);11,644;88;48;40
+120214331590090382;Birkhadem;Muslim;Sun;Before;Male;(18, 24);15,063;119;55;64
+120214331589130382;Birkhadem;Muslim;Fri;Before;Male;(50, 65);2,252;30;22;8
+120214331587580382;Birkhadem;Muslim;Fri;Before;Male;(25, 49);18,184;179;108;71
+120214331583520382;Birkhadem;Muslim;Fri;Before;Male;(18, 24);26,561;335;189;146
+120214331581100382;Birkhadem;Muslim;Tue;Before;Male;(50, 65);2,815;43;16;27
+120214331579230382;Birkhadem;Muslim;Tue;Before;Male;(25, 49);21,282;220;113;107
+120214331578040382;Birkhadem;Muslim;Tue;Before;Male;(18, 24);30,063;370;165;205
+120214331672550382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Female;(50, 65);316;1;1;0
+120214331671390382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Female;(25, 49);6,719;56;28;28
+120214331670630382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Female;(18, 24);11,279;92;38;54
+120214331669780382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Female;(50, 65);599;2;2;0
+120214331669220382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Female;(25, 49);8,017;60;30;30
+120214331668010382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Female;(18, 24);14,178;85;32;53
+120214331666020382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Female;(50, 65);347;6;5;1
+120214331663540382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Female;(25, 49);7,728;66;40;26
+120214331661740382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Female;(18, 24);12,802;92;43;49
+120214331659700382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Female;(50, 65);264;2;2;0
+120214331658100382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Female;(25, 49);4,952;26;10;16
+120214331655910382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Female;(18, 24);6,458;35;14;21
+120214331655310382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Female;(50, 65);494;1;0;1
+120214331654510382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Female;(25, 49);6,940;33;17;16
+120214331653130382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Female;(18, 24);11,502;74;30;44
+120214331651450382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Female;(50, 65);365;2;1;1
+120214331650720382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Female;(25, 49);6,943;31;17;14
+120214331650060382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Female;(18, 24);10,823;72;23;49
+120214331648630382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Male;(50, 65);268;4;2;2
+120214331647210382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Male;(25, 49);5,132;30;20;10
+120214331644160382;Al-Qanatir al-Chairiyya;Muslim;Sun;After;Male;(18, 24);8,038;63;28;35
+120214331643500382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Male;(50, 65);757;9;6;3
+120214331642230382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Male;(25, 49);8,470;49;25;24
+120214331640810382;Al-Qanatir al-Chairiyya;Muslim;Fri;After;Male;(18, 24);12,994;91;43;48
+120214331636000382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Male;(50, 65);211;1;0;1
+120214331633510382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Male;(25, 49);6,436;45;24;21
+120214331630660382;Al-Qanatir al-Chairiyya;Muslim;Tue;After;Male;(18, 24);12,311;103;44;59
+120214331629730382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Male;(50, 65);180;2;1;1
+120214331628850382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Male;(25, 49);3,997;29;17;12
+120214331628240382;Al-Qanatir al-Chairiyya;Muslim;Sun;Before;Male;(18, 24);5,803;47;19;28
+120214331627760382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Male;(50, 65);245;2;1;1
+120214331626970382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Male;(25, 49);6,326;38;15;23
+120214331626020382;Al-Qanatir al-Chairiyya;Muslim;Fri;Before;Male;(18, 24);9,255;52;27;25
+120214331624800382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Male;(50, 65);0;0;0;0
+120214331623950382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Male;(25, 49);6,798;54;27;27
+120214331623250382;Al-Qanatir al-Chairiyya;Muslim;Tue;Before;Male;(18, 24);10,153;66;31;35
+120214331721840382;Kati;Muslim;Sun;After;Female;(50, 65);0;0;0;0
+120214331720020382;Kati;Muslim;Sun;After;Female;(25, 49);182;1;1;0
+120214331718430382;Kati;Muslim;Sun;After;Female;(18, 24);247;5;0;5
+120214331717400382;Kati;Muslim;Fri;After;Female;(50, 65);0;0;0;0
+120214331716880382;Kati;Muslim;Fri;After;Female;(25, 49);142;1;1;0
+120214331715980382;Kati;Muslim;Fri;After;Female;(18, 24);207;2;2;0
+120214331714950382;Kati;Muslim;Tue;After;Female;(50, 65);0;0;0;0
+120214331713350382;Kati;Muslim;Tue;After;Female;(25, 49);0;0;0;0
+120214331712610382;Kati;Muslim;Tue;After;Female;(18, 24);370;1;0;1
+120214331711990382;Kati;Muslim;Sun;Before;Female;(50, 65);0;0;0;0
+120214331711600382;Kati;Muslim;Sun;Before;Female;(25, 49);0;0;0;0
+120214331710130382;Kati;Muslim;Sun;Before;Female;(18, 24);272;1;0;1
+120214331709230382;Kati;Muslim;Fri;Before;Female;(50, 65);0;0;0;0
+120214331708350382;Kati;Muslim;Fri;Before;Female;(25, 49);0;0;0;0
+120214331707120382;Kati;Muslim;Fri;Before;Female;(18, 24);171;3;2;1
+120214331705920382;Kati;Muslim;Tue;Before;Female;(50, 65);0;0;0;0
+120214331705030382;Kati;Muslim;Tue;Before;Female;(25, 49);234;2;2;0
+120214331703810382;Kati;Muslim;Tue;Before;Female;(18, 24);292;1;1;0
+120214331701890382;Kati;Muslim;Sun;After;Male;(50, 65);0;0;0;0
+120214331700270382;Kati;Muslim;Sun;After;Male;(25, 49);375;3;2;1
+120214331699250382;Kati;Muslim;Sun;After;Male;(18, 24);690;5;3;2
+120214331697240382;Kati;Muslim;Fri;After;Male;(50, 65);0;0;0;0
+120214331694840382;Kati;Muslim;Fri;After;Male;(25, 49);282;2;2;0
+120214331693150382;Kati;Muslim;Fri;After;Male;(18, 24);529;1;0;1
+120214331690520382;Kati;Muslim;Tue;After;Male;(50, 65);0;0;0;0
+120214331689330382;Kati;Muslim;Tue;After;Male;(25, 49);450;3;2;1
+120214331687520382;Kati;Muslim;Tue;After;Male;(18, 24);907;7;5;2
+120214331686760382;Kati;Muslim;Sun;Before;Male;(50, 65);0;0;0;0
+120214331684750382;Kati;Muslim;Sun;Before;Male;(25, 49);0;0;0;0
+120214331683610382;Kati;Muslim;Sun;Before;Male;(18, 24);566;2;1;1
+120214331682250382;Kati;Muslim;Fri;Before;Male;(50, 65);0;0;0;0
+120214331680670382;Kati;Muslim;Fri;Before;Male;(25, 49);280;2;2;0
+120214331679340382;Kati;Muslim;Fri;Before;Male;(18, 24);497;2;2;0
+120214331677500382;Kati;Muslim;Tue;Before;Male;(50, 65);33;1;1;0
+120214331675060382;Kati;Muslim;Tue;Before;Male;(25, 49);498;1;1;0
+120214331674140382;Kati;Muslim;Tue;Before;Male;(18, 24);909;5;4;1
+120214572403780382;Tanana Ambany;Christian;Sun;After;Female;(18, 65);0;0;0;0
+120214572400920382;Tanana Ambany;Christian;Fri;After;Female;(18, 65);0;0;0;0
+120214572398470382;Tanana Ambany;Christian;Tue;After;Female;(18, 65);0;0;0;0
+120214572393960382;Tanana Ambany;Christian;Sun;Before;Female;(18, 65);0;0;0;0
+120214572391520382;Tanana Ambany;Christian;Fri;Before;Female;(18, 65);32;1;1;0
+120214572390250382;Tanana Ambany;Christian;Tue;Before;Female;(18, 65);0;0;0;0
+120214572389490382;Tanana Ambany;Christian;Sun;After;Male;(18, 65);0;0;0;0
+120214572387830382;Tanana Ambany;Christian;Fri;After;Male;(18, 65);0;0;0;0
+120214572385430382;Tanana Ambany;Christian;Tue;After;Male;(18, 65);0;0;0;0
+120214572383450382;Tanana Ambany;Christian;Sun;Before;Male;(18, 65);0;0;0;0
+120214572382600382;Tanana Ambany;Christian;Fri;Before;Male;(18, 65);0;0;0;0
+120214572379420382;Tanana Ambany;Christian;Tue;Before;Male;(18, 65);0;0;0;0
+120214572518520382;Galeshewe;Christian;Sun;After;Female;(50, 65);0;0;0;0
+120214572515690382;Galeshewe;Christian;Sun;After;Female;(25, 49);225;1;1;0
+120214572513420382;Galeshewe;Christian;Sun;After;Female;(18, 24);363;1;0;1
+120214572511110382;Galeshewe;Christian;Fri;After;Female;(50, 65);0;0;0;0
+120214572505280382;Galeshewe;Christian;Fri;After;Female;(25, 49);180;1;0;1
+120214572501870382;Galeshewe;Christian;Fri;After;Female;(18, 24);394;1;0;1
+120214572499800382;Galeshewe;Christian;Tue;After;Female;(50, 65);0;0;0;0
+120214572498490382;Galeshewe;Christian;Tue;After;Female;(25, 49);0;0;0;0
+120214572496240382;Galeshewe;Christian;Tue;After;Female;(18, 24);404;2;1;1
+120214572494200382;Galeshewe;Christian;Sun;Before;Female;(50, 65);0;0;0;0
+120214572492060382;Galeshewe;Christian;Sun;Before;Female;(25, 49);188;1;1;0
+120214572490930382;Galeshewe;Christian;Sun;Before;Female;(18, 24);406;1;0;1
+120214572489570382;Galeshewe;Christian;Fri;Before;Female;(50, 65);0;0;0;0
+120214572486220382;Galeshewe;Christian;Fri;Before;Female;(25, 49);0;0;0;0
+120214572484180382;Galeshewe;Christian;Fri;Before;Female;(18, 24);0;0;0;0
+120214572482290382;Galeshewe;Christian;Tue;Before;Female;(50, 65);0;0;0;0
+120214572480700382;Galeshewe;Christian;Tue;Before;Female;(25, 49);0;0;0;0
+120214572479590382;Galeshewe;Christian;Tue;Before;Female;(18, 24);0;0;0;0
+120214572476180382;Galeshewe;Christian;Sun;After;Male;(50, 65);0;0;0;0
+120214572474310382;Galeshewe;Christian;Sun;After;Male;(25, 49);116;1;0;1
+120214572472380382;Galeshewe;Christian;Sun;After;Male;(18, 24);304;1;1;0
+120214572469290382;Galeshewe;Christian;Fri;After;Male;(50, 65);0;0;0;0
+120214572467240382;Galeshewe;Christian;Fri;After;Male;(25, 49);121;2;1;1
+120214572465090382;Galeshewe;Christian;Fri;After;Male;(18, 24);317;1;0;1
+120214572462620382;Galeshewe;Christian;Tue;After;Male;(50, 65);0;0;0;0
+120214572458190382;Galeshewe;Christian;Tue;After;Male;(25, 49);98;1;1;0
+120214572455160382;Galeshewe;Christian;Tue;After;Male;(18, 24);286;1;1;0
+120214572451730382;Galeshewe;Christian;Sun;Before;Male;(50, 65);0;0;0;0
+120214572450390382;Galeshewe;Christian;Sun;Before;Male;(25, 49);0;0;0;0
+120214572446530382;Galeshewe;Christian;Sun;Before;Male;(18, 24);278;1;1;0
+120214572443000382;Galeshewe;Christian;Fri;Before;Male;(50, 65);0;0;0;0
+120214572435880382;Galeshewe;Christian;Fri;Before;Male;(25, 49);137;2;1;1
+120214572431030382;Galeshewe;Christian;Fri;Before;Male;(18, 24);375;1;0;1
+120214572425080382;Galeshewe;Christian;Tue;Before;Male;(50, 65);0;0;0;0
+120214572422110382;Galeshewe;Christian;Tue;Before;Male;(25, 49);0;0;0;0
+120214572418780382;Galeshewe;Christian;Tue;Before;Male;(18, 24);344;2;0;2
+120214572577460382;Grombalia;Muslim;Sun;After;Female;(50, 65);147;1;0;1
+120214572575110382;Grombalia;Muslim;Sun;After;Female;(25, 49);2,192;11;6;5
+120214572572370382;Grombalia;Muslim;Sun;After;Female;(18, 24);3,773;32;15;17
+120214572571010382;Grombalia;Muslim;Fri;After;Female;(50, 65);0;0;0;0
+120214572569600382;Grombalia;Muslim;Fri;After;Female;(25, 49);2,073;8;3;5
+120214572568420382;Grombalia;Muslim;Fri;After;Female;(18, 24);2,947;26;9;17
+120214572564130382;Grombalia;Muslim;Tue;After;Female;(50, 65);161;2;1;1
+120214572562870382;Grombalia;Muslim;Tue;After;Female;(25, 49);2,190;13;4;9
+120214572559950382;Grombalia;Muslim;Tue;After;Female;(18, 24);3,182;18;6;12
+120214572558070382;Grombalia;Muslim;Sun;Before;Female;(50, 65);0;0;0;0
+120214572557240382;Grombalia;Muslim;Sun;Before;Female;(25, 49);2,203;8;5;3
+120214572556760382;Grombalia;Muslim;Sun;Before;Female;(18, 24);3,045;19;10;9
+120214572556260382;Grombalia;Muslim;Fri;Before;Female;(50, 65);0;0;0;0
+120214572554250382;Grombalia;Muslim;Fri;Before;Female;(25, 49);2,115;14;10;4
+120214572552500382;Grombalia;Muslim;Fri;Before;Female;(18, 24);3,104;18;8;10
+120214572550760382;Grombalia;Muslim;Tue;Before;Female;(50, 65);155;1;0;1
+120214572549490382;Grombalia;Muslim;Tue;Before;Female;(25, 49);2,240;19;9;10
+120214572547930382;Grombalia;Muslim;Tue;Before;Female;(18, 24);3,018;19;9;10
+120214572546770382;Grombalia;Muslim;Sun;After;Male;(50, 65);112;1;0;1
+120214572545710382;Grombalia;Muslim;Sun;After;Male;(25, 49);1,910;13;9;4
+120214572544740382;Grombalia;Muslim;Sun;After;Male;(18, 24);3,516;34;14;20
+120214572543740382;Grombalia;Muslim;Fri;After;Male;(50, 65);111;1;0;1
+120214572540940382;Grombalia;Muslim;Fri;After;Male;(25, 49);1,442;6;3;3
+120214572539380382;Grombalia;Muslim;Fri;After;Male;(18, 24);3,111;23;13;10
+120214572537570382;Grombalia;Muslim;Tue;After;Male;(50, 65);0;0;0;0
+120214572535960382;Grombalia;Muslim;Tue;After;Male;(25, 49);1,973;12;3;9
+120214572535180382;Grombalia;Muslim;Tue;After;Male;(18, 24);2,978;23;7;16
+120214572533890382;Grombalia;Muslim;Sun;Before;Male;(50, 65);93;1;1;0
+120214572533380382;Grombalia;Muslim;Sun;Before;Male;(25, 49);1,552;7;1;6
+120214572532440382;Grombalia;Muslim;Sun;Before;Male;(18, 24);2,555;22;8;14
+120214572529470382;Grombalia;Muslim;Fri;Before;Male;(50, 65);89;2;0;2
+120214572527100382;Grombalia;Muslim;Fri;Before;Male;(25, 49);1,638;15;7;8
+120214572525330382;Grombalia;Muslim;Fri;Before;Male;(18, 24);2,850;18;10;8
+120214572522930382;Grombalia;Muslim;Tue;Before;Male;(50, 65);0;0;0;0
+120214572521490382;Grombalia;Muslim;Tue;Before;Male;(25, 49);1,656;12;3;9
+120214572520340382;Grombalia;Muslim;Tue;Before;Male;(18, 24);2,846;31;18;13
+120214572643250382;Yaoundé;Christian;Sun;After;Female;(50, 65);0;0;0;0
+120214572642440382;Yaoundé;Christian;Sun;After;Female;(25, 49);568;6;3;3
+120214572640760382;Yaoundé;Christian;Sun;After;Female;(18, 24);750;7;4;3
+120214572639520382;Yaoundé;Christian;Fri;After;Female;(50, 65);0;0;0;0
+120214572638400382;Yaoundé;Christian;Fri;After;Female;(25, 49);463;3;1;2
+120214572637110382;Yaoundé;Christian;Fri;After;Female;(18, 24);576;4;1;3
+120214572635970382;Yaoundé;Christian;Tue;After;Female;(50, 65);0;0;0;0
+120214572634030382;Yaoundé;Christian;Tue;After;Female;(25, 49);607;3;1;2
+120214572632850382;Yaoundé;Christian;Tue;After;Female;(18, 24);660;3;2;1
+120214572631990382;Yaoundé;Christian;Sun;Before;Female;(50, 65);0;0;0;0
+120214572630750382;Yaoundé;Christian;Sun;Before;Female;(25, 49);507;3;0;3
+120214572629350382;Yaoundé;Christian;Sun;Before;Female;(18, 24);577;3;2;1
+120214572626540382;Yaoundé;Christian;Fri;Before;Female;(50, 65);0;0;0;0
+120214572623690382;Yaoundé;Christian;Fri;Before;Female;(25, 49);537;3;2;1
+120214572621370382;Yaoundé;Christian;Fri;Before;Female;(18, 24);748;2;1;1
+120214572620400382;Yaoundé;Christian;Tue;Before;Female;(50, 65);0;0;0;0
+120214572617770382;Yaoundé;Christian;Tue;Before;Female;(25, 49);654;4;2;2
+120214572615820382;Yaoundé;Christian;Tue;Before;Female;(18, 24);690;6;4;2
+120214572612160382;Yaoundé;Christian;Sun;After;Male;(50, 65);39;1;1;0
+120214572610920382;Yaoundé;Christian;Sun;After;Male;(25, 49);410;3;2;1
+120214572608660382;Yaoundé;Christian;Sun;After;Male;(18, 24);776;7;2;5
+120214572607450382;Yaoundé;Christian;Fri;After;Male;(50, 65);28;1;0;1
+120214572605820382;Yaoundé;Christian;Fri;After;Male;(25, 49);373;1;1;0
+120214572601740382;Yaoundé;Christian;Fri;After;Male;(18, 24);567;7;5;2
+120214572599610382;Yaoundé;Christian;Tue;After;Male;(50, 65);38;3;3;0
+120214572597930382;Yaoundé;Christian;Tue;After;Male;(25, 49);490;2;0;2
+120214572595440382;Yaoundé;Christian;Tue;After;Male;(18, 24);658;3;1;2
+120214572592820382;Yaoundé;Christian;Sun;Before;Male;(50, 65);0;0;0;0
+120214572591120382;Yaoundé;Christian;Sun;Before;Male;(25, 49);388;2;1;1
+120214572590400382;Yaoundé;Christian;Sun;Before;Male;(18, 24);727;6;4;2
+120214572587550382;Yaoundé;Christian;Fri;Before;Male;(50, 65);37;1;1;0
+120214572586660382;Yaoundé;Christian;Fri;Before;Male;(25, 49);492;1;0;1
+120214572584900382;Yaoundé;Christian;Fri;Before;Male;(18, 24);863;8;8;0
+120214572583280382;Yaoundé;Christian;Tue;Before;Male;(50, 65);28;1;1;0
+120214572580520382;Yaoundé;Christian;Tue;Before;Male;(25, 49);528;2;1;1
+120214572579130382;Yaoundé;Christian;Tue;Before;Male;(18, 24);780;3;0;3
+120214572704680382;Aba;Christian;Sun;After;Female;(50, 65);0;0;0;0
+120214572703580382;Aba;Christian;Sun;After;Female;(25, 49);0;0;0;0
+120214572701670382;Aba;Christian;Sun;After;Female;(18, 24);152;1;1;0
+120214572700940382;Aba;Christian;Fri;After;Female;(50, 65);0;0;0;0
+120214572699600382;Aba;Christian;Fri;After;Female;(25, 49);117;2;0;2
+120214572698840382;Aba;Christian;Fri;After;Female;(18, 24);130;1;1;0
+120214572697170382;Aba;Christian;Tue;After;Female;(50, 65);0;0;0;0
+120214572694830382;Aba;Christian;Tue;After;Female;(25, 49);0;0;0;0
+120214572690910382;Aba;Christian;Tue;After;Female;(18, 24);0;0;0;0
+120214572688620382;Aba;Christian;Sun;Before;Female;(50, 65);0;0;0;0
+120214572684870382;Aba;Christian;Sun;Before;Female;(25, 49);0;0;0;0
+120214572681780382;Aba;Christian;Sun;Before;Female;(18, 24);0;0;0;0
+120214572679320382;Aba;Christian;Fri;Before;Female;(50, 65);12;1;1;0
+120214572676210382;Aba;Christian;Fri;Before;Female;(25, 49);0;0;0;0
+120214572675390382;Aba;Christian;Fri;Before;Female;(18, 24);178;2;2;0
+120214572674100382;Aba;Christian;Tue;Before;Female;(50, 65);0;0;0;0
+120214572672720382;Aba;Christian;Tue;Before;Female;(25, 49);0;0;0;0
+120214572671420382;Aba;Christian;Tue;Before;Female;(18, 24);0;0;0;0
+120214572670150382;Aba;Christian;Sun;After;Male;(50, 65);0;0;0;0
+120214572668520382;Aba;Christian;Sun;After;Male;(25, 49);163;1;0;1
+120214572667520382;Aba;Christian;Sun;After;Male;(18, 24);151;2;1;1
+120214572666070382;Aba;Christian;Fri;After;Male;(50, 65);0;0;0;0
+120214572665000382;Aba;Christian;Fri;After;Male;(25, 49);0;0;0;0
+120214572663270382;Aba;Christian;Fri;After;Male;(18, 24);0;0;0;0
+120214572660860382;Aba;Christian;Tue;After;Male;(50, 65);0;0;0;0
+120214572660050382;Aba;Christian;Tue;After;Male;(25, 49);0;0;0;0
+120214572657730382;Aba;Christian;Tue;After;Male;(18, 24);0;0;0;0
+120214572656320382;Aba;Christian;Sun;Before;Male;(50, 65);0;0;0;0
+120214572655520382;Aba;Christian;Sun;Before;Male;(25, 49);175;2;0;2
+120214572653950382;Aba;Christian;Sun;Before;Male;(18, 24);181;3;2;1
+120214572652340382;Aba;Christian;Fri;Before;Male;(50, 65);0;0;0;0
+120214572650970382;Aba;Christian;Fri;Before;Male;(25, 49);255;1;1;0
+120214572648670382;Aba;Christian;Fri;Before;Male;(18, 24);0;0;0;0
+120214572647240382;Aba;Christian;Tue;Before;Male;(50, 65);0;0;0;0
+120214572646190382;Aba;Christian;Tue;Before;Male;(25, 49);0;0;0;0
+120214572644010382;Aba;Christian;Tue;Before;Male;(18, 24);0;0;0;0

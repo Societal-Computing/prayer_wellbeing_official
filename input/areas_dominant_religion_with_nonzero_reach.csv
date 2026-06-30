@@ -1,0 +1,39 @@
+;region;christian;muslim;country;geoname_id;precision_code;place_name;latitude;longitude;location_type_code;geoname_adm_code;geoname_adm_name;location_class;geographic_exactness;dominant;Reach
+65;Central;0.91039348;0.002152629;6;8693007;3;Kiambu County;-1.16667;36.833328;ADM2;6295630|6255146|KE|22|8693007;Earth|Africa|Kenya|Kiambu|Kiambu County;1;1;christian;76150.65751383502
+110;Haute Matsiatra;0.9710595;0.0;9;11102226;1;Tanana Ambany;-21.43104;47.06889;PPL;6295630|6255146|MG|11102226;Earth|Africa|Madagascar|Tanana Ambany;2;1;christian;39131.66482049134
+123;Koulikoro;0.025448579;0.91083342;11;2455558;1;Kati;12.74409;-8.0725698;PPLA2;6295630|6255146|ML|07|2455558;Earth|Africa|Mali|Koulikoro|Kati;2;1;muslim;36903.20134624561
+127;Bamako;0.022325752;0.92224151;11;7701196;3;Commune 4;12.61174;-8.04391;ADM3;6295630|6255146|ML|01|7701196;Earth|Africa|Mali|Bamako Region|Commune 4;1;1;muslim;36913.315852123356
+144;Khomas;0.94346362;0.0;13;3352136;1;Windhoek;-22.55941;17.083229;PPLC;6295630|6255146|NA|21|3352136;Earth|Africa|Namibia|Khomas|Windhoek;2;1;christian;27477.172151514747
+152;Abia;0.93490422;0.0;14;2353151;1;Aba;5.1065798;7.3666701;PPLA2;6295630|6255146|NG|45|7701374|2353151;Earth|Africa|Nigeria|Abia State|Aba South|Aba;2;1;christian;41421.08043036939
+155;Anambra;0.9544155;0.0;14;7701533;3;Njikoka;6.1841998;6.9765501;ADM2;6295630|6255146|NG|25|7701533;Earth|Africa|Nigeria|Anambra|Njikoka;1;1;christian;26414.865306807762
+161;Delta;0.9359237;0.008697141;14;11239171;1;Odion Road;5.50879;5.7509098;RD;6295630|6255146|NG|36|7729943|11239171;Earth|Africa|Nigeria|Delta|Warri South|Odion Road;3;1;christian;25902.350294618795
+162;Ebonyi;1.0;0.0;14;8659714;3;Abakaliki;6.2564602;8.2113304;ADM2;6295630|6255146|NG|53|8659714;Earth|Africa|Nigeria|Ebonyi State|Abakaliki;1;1;christian;20660.15476240316
+171;Kano;0.012371674;0.98762834;14;9410969;3;Chiranchi;11.93178;8.4760103;ADM3;6295630|6255146|NG|29|7871268|9410969;Earth|Africa|Nigeria|Kano State|Kumbotso|Chiranchi;1;1;muslim;55558.957925561816
+210;Northern Cape;0.94450676;0.005815444;16;11204576;1;Galeshewe;-28.716999;24.725;PPLX;6295630|6255146|ZA|08|8347385|8347551|11204576;Earth|Africa|South Africa|Northern Cape|Frances Baard District Municipality|Sol Plaatjie|Galeshewe;2;1;christian;11830.401117075024
+235;Mjini Magharibi;0.013091201;0.98032808;17;153262;1;Mombasa;-6.1999998;39.216671;PPL;6295630|6255146|TZ|25|11204825|153263|153262;Earth|Africa|Tanzania|Zanzibar Urban/West|Magharibi|Mombasa|Mombasa;2;1;muslim;14541.384937069022
+284;Niamey;0.017066257;0.96667445;23;11205494;1;Koira Kano;13.54359;2.06161;PPLX;6295630|6255146|NE|08|11205494;Earth|Africa|Niger|Niamey|Koira Kano;2;1;muslim;14401.542409923444
+308;Yaounde;0.94048244;0.023131177;26;2220957;1;Yaoundé;3.8666699;11.51667;PPLC;6295630|6255146|CM|11|2220957;Earth|Africa|Cameroon|Centre|YaoundÃ©;2;1;christian;66524.87620481022
+340;Conakry;0.076034658;0.92396533;28;2419495;1;Kipé;9.6000004;-13.65;PPL;6295630|6255146|GN|04|2419495;Earth|Africa|Guinea|Conakry Region|KipÃ©;2;1;muslim;79532.09457563951
+349;Manzini;0.91366351;0.0;30;11128352;3;Ludzeludze Inkhundla;-26.397079;31.314091;ADM2;6295630|6255146|SZ|03|11128352;Earth|Africa|Swaziland|Manzini District|Ludzeludze Inkhundla;1;1;christian;30329.412370746646
+359;Bechar;0.0;1.0;31;2477461;1;TÃ©bessa;35.404171;8.1241703;PPLA;6295630|6255146|DZ|33|2477461;Earth|Africa|Algeria|TÃ©bessa|TÃ©bessa;2;1;muslim;30784.612759459254
+362;Tamanghasset;0.0;1.0;31;2503847;1;Birkhadem;36.714989;3.05002;PPL;6295630|6255146|DZ|01|2503847;Earth|Africa|Algeria|Algiers|Birkhadem;2;1;muslim;127927.3825626346
+375;Guelma;0.0;1.0;31;2490098;1;Mascara;35.396641;0.14026999;PPLA;6295630|6255146|DZ|26|2490098;Earth|Africa|Algeria|Mascara|Mascara;2;1;muslim;25859.613704575408
+376;Constantine;0.0;1.0;31;2482886;1;Rouissat;31.924271;5.3501801;PPL;6295630|6255146|DZ|50|2482886;Earth|Africa|Algeria|Ouargla|Rouissat;2;1;muslim;29549.49527641139
+383;El Bayadh;0.0;1.0;31;2491578;1;Kolea;36.638882;2.76845;PPL;6295630|6255146|DZ|55|2491578;Earth|Africa|Algeria|Tipaza|Kolea;2;1;muslim;56549.20039817279
+385;Bordj Bou Arreridj;0.0;1.0;31;2491911;1;Khemis Miliana;36.26104;2.22015;PPL;6295630|6255146|DZ|35|2491911;Earth|Africa|Algeria|AÃ¯n Defla|Khemis Miliana;2;1;muslim;24012.661212308463
+388;Cairo;0.097452588;0.90254742;32;7911441;1;á¸¨adÄâiq az ZaytÅ«n;30.107519;31.31773;PPLX;6295630|6255146|EG|11|360630|7911441;Earth|Africa|Egypt|Cairo|Cairo|á¸¨adÄâiq az ZaytÅ«n;2;1;muslim;134747.12427404156
+394;Qalyubia;0.067371629;0.93262839;32;360615;1;Al-Qanatir al-Chairiyya;30.19327;31.13703;PPL;6295630|6255146|EG|12|360615;Earth|Africa|Egypt|Qalyubia|Al QanÄÅ£ir al KhayrÄ«yah;2;1;muslim;113570.42286205583
+399;Ismailia;0.0;1.0;32;361056;4;Ismailia;30.6;32.400002;ADM1;6295630|6255146|EG|07;Earth|Africa|Egypt|Ismailia;1;1;muslim;46361.10516379332
+400;Giza;0.018712686;0.9812873;32;359074;1;Barnasht;29.683331;31.25;PPL;6295630|6255146|EG|08|359074;Earth|Africa|Egypt|Giza|Barnasht;2;1;muslim;23077.068808172535
+410;Chaouia-Ouardigha;0.0;1.0;33;2556272;1;Berrechid;33.26553;-7.5875401;PPLA3;6295630|6255146|MA|06|2537405|6546705|2556272;Earth|Africa|Morocco|Casablanca-Settat|Settat Province|Berrechid|Berrechid;2;1;muslim;21822.85855761367
+412;Fes-Boulemane;0.0;1.0;33;6546034;3;Zouagha;34.009472;-5.0427198;ADM3;6295630|6255146|MA|03|6547300|6546034;Earth|Africa|Morocco|FÃ¨s-MeknÃ¨s|Fes|Zouagha;1;1;muslim;82078.26215571316
+414;Grand Casablanca;0.0;1.0;33;6545963;3;Aïn Sebaâ;33.629429;-7.4991298;ADM3;6295630|6255146|MA|06|6547294|6545963;Earth|Africa|Morocco|Casablanca-Settat|Casablanca|Ain-Sebaa;1;1;muslim;129904.95843996354
+418;Meknes-Tafilalet;0.0;0.96651083;33;2542715;1;Meknes;33.89352;-5.5472698;PPLA2;6295630|6255146|MA|03|6547283|6546578|2542715;Earth|Africa|Morocco|FÃ¨s-MeknÃ¨s|Meknes|Meknes|Meknes;2;1;muslim;51141.86353595501
+421;Rabat-Sale-Zemmour-Zaer;0.0;1.0;33;6546340;3;Bab Lamrissa;34.05991;-6.8104801;ADM3;6295630|6255146|MA|04|2537762|6546340;Earth|Africa|Morocco|Rabat-SalÃ©-KÃ©nitra|Sale|Bab Lamrissa;1;1;muslim;90057.25632735218
+441;Tunis;0.0;1.0;35;2464465;3;DÃ©lÃ©gation de la MÃ©dina;36.796989;10.16946;ADM2;6295630|6255146|TN|36|2464465;Earth|Africa|Tunisia|Gouvernorat de Tunis|DÃ©lÃ©gation de la MÃ©dina;1;1;muslim;93268.61898612723
+442;Ariana;0.0;1.0;35;11109020;3;Ariana Ville;36.865421;10.16846;ADM2;6295630|6255146|TN|38|11109020;Earth|Africa|Tunisia|Gouvernorat de lâAriana|Ariana Ville;1;1;muslim;88947.46100158204
+443;Ben Arous;0.0;1.0;35;11109018;3;DÃ©lÃ©gation de MÃ©grine;36.77314;10.23005;ADM2;6295630|6255146|TN|27|11109018;Earth|Africa|Tunisia|Gouvernorat de Ben Arous|DÃ©lÃ©gation de MÃ©grine;1;1;muslim;93269.3333120171
+445;Nabeul;0.0;1.0;35;2467898;1;Grombalia;36.598942;10.50032;PPL;6295630|6255146|TN|19|2467898;Earth|Africa|Tunisia|Gouvernorat de Nabeul|Grombalia;2;1;muslim;26522.742768248565
+452;Sousse;0.0;1.0;35;11104944;3;Sousse Sidi Abdelhamid;35.805328;10.6407;ADM2;6295630|6255146|TN|23|11104944;Earth|Africa|Tunisia|Gouvernorat de Sousse|Sousse Sidi Abdelhamid;1;1;muslim;48885.094938964845
+453;Monastir;0.0;1.0;35;2466294;1;Sidi Ameur;35.75;10.7;PPL;6295630|6255146|TN|16|2466294;Earth|Africa|Tunisia|Gouvernorat de Monastir|Sidi Ameur;2;1;muslim;53321.51830144187
+456;Kairouan;0.0;1.0;35;11205517;3;El Ghabet;35.735889;10.15939;ADM3;6295630|6255146|TN|03|11205517;Earth|Africa|Tunisia|Gouvernorat de Kairouan|El Ghabet;1;1;muslim;17165.836407434952
